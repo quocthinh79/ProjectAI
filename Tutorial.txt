@@ -1,0 +1,37 @@
+Sử dụng python 3.8.0 (Những phiên bản khác không đảm bảo sẽ chạy được)
+
+API: gtts, pyaudio, Google APIs (SpeechRecognition, ...), wikipedia, youtube-search, ...
+Chủ đề: Thực hiện hầu hết các tác vụ cơ bản của máy tính (Chức năng chính), Có thể tán gẫu (Đang trong giai đoạn phát triển)
+Sử dụng giọng nói để mở và nhận diện hình ảnh giải một bài toán đơn giản (Có thể có), Thao tác máy tính bằng cử chỉ tay (Có thể có)
+
+pip install tflean
+pip install underthesea
+pip install --upgrade cython   
+pip install -U scikit-learn     
+pip install xgboost
+pip install beautifulsoup4
+pip install requests
+pip install youtube-search
+pip install googletrans==3.1.0a0
+pip install chatterbot_corpus
+pip3 install pyyaml
+python -m spacy download en_core_web_sm
+
+https://br.atsit.in/vi/?p=71209 (Sửa lỗi không chạy được python -m spacy download en_core_web_sm)
+
+pip install spacy
+pip install chatterbot   
+pip install selenium    
+pip install cryptography==2.8   
+pip install webdriver            
+pip install PyAudio-0.2.11-cp38-cp38-win_amd64.whl
+(Link down trước khi chạy lệnh pip install PyAudio-0.2.11-cp38-cp38-win_amd64.whl: https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio)
+pipwin install pyaudio
+pip install pypiwin32 
+pip install pipwin    
+pip install cryptography
+pip install webdriver-manager
+pip install pyjokes          
+pip install playsound==1.2.2 
+pip install gtts             
+pip install SpeechRecognition

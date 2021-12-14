@@ -1,0 +1,15 @@
+{"intents": [
+        {"tag": "Ngon nhào vô",
+         "patterns": ["Thích đánh lộn không?"]
+        },
+        {"tag": "Mai học ca 3",
+         "patterns": ["Mai học ca mấy vậy"]
+        },
+        {"tag": "có chứ, tên là tiến quân ca",
+         "patterns": ["bạn có biết tên của bài quốc ca nước mình không?"]
+        },
+        {"tag": "Mình đến từ Lào",
+         "patterns": ["Bạn đến từ đâu"]
+        }
+   ]
+}
