@@ -12,14 +12,6 @@ from youtube_search import YoutubeSearch # Thư viện hỗ trợ tìm kiếm tr
 import time # Xử lý các tác vụ liên quan đến thời gian
 import requests # Hỗ trợ gửi yêu cầu HTTP
 from bs4 import BeautifulSoup # Hỗ trợ xử lý dữ liệu dạng html (Phân tích tài liệu html)
-from underthesea import sent_tokenize
-# Khởi tạo
-ai_brain = " " # Chuỗi rỗng do ban đầu máy chưa được học gì
-count = 0 # Count hỗ trợ người dùng không nói nhiều lần sẽ tự tắt
-you = " " # Người nói
-name_sir = "" # Tên của người nói
-translator = Translator() # Get phương thức translator
-
 import numpy as np
 import tflearn
 from tensorflow.python.framework import ops
@@ -27,6 +19,12 @@ import random
 import json
 import underthesea as vi
 
+# Khởi tạo
+ai_brain = " " # Chuỗi rỗng do ban đầu máy chưa được học gì
+count = 0 # Count hỗ trợ người dùng không nói nhiều lần sẽ tự tắt
+you = " " # Người nói
+name_sir = "" # Tên của người nói
+translator = Translator() # Get phương thức translator
 # XỬ LÝ SƠ LƯỢC DỮ LIỆU TRAIN
 file = open('intents.json', encoding="utf8")
 with file as json_data:
