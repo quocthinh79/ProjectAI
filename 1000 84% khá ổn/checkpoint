@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\ProjectAI\\data-train\\model.tflearn"
+all_model_checkpoint_paths: "D:\\ProjectAI\\data-train\\model.tflearn"

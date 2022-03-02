@@ -4,9 +4,10 @@ from tensorflow.python.framework import ops
 import random
 import json
 import underthesea as vi
+import pickle
 
 # XỬ LÝ SƠ LƯỢC DỮ LIỆU TRAIN
-file = open('intents.json', encoding="utf8")
+file = open('intentsTemp.json', encoding="utf8")
 with file as json_data:
     intents = json.load(json_data) # Gán dữ liệu trong file json vào biến intents
 
@@ -60,22 +61,29 @@ train_y = list(training[:,1]) # Các vector của tag
 # BUILD NEURAL NETWORK
 ops.reset_default_graph()
 net1 = tflearn.input_data(shape=[None, len(train_x[0])]) # Khởi tạo lớp đầu vào [INFINITY, len(train_x[0])]
-net2 = tflearn.fully_connected(net1, 64,bias_init='zeros', bias=False) # Lớp ẩn
-net3 = tflearn.fully_connected(net2, 64,bias_init='zeros', bias=False) # Lớp ẩn
-net4 = tflearn.fully_connected(net3, 64,bias_init='zeros', bias=False) # Lớp ẩn
-net5 = tflearn.fully_connected(net4, 64,bias_init='zeros', bias=False) # Lớp ẩn
-net6 = tflearn.fully_connected(net5, len(train_y[0]), activation='softmax',bias_init='zeros', bias=False) # Lớp đầu ra
-net7 = tflearn.regression(net6, optimizer='adam', loss='categorical_crossentropy') # Lớp ước tính hồi quy
+net2 = tflearn.fully_connected(net1, 128,bias_init='zeros', bias=False) # Lớp ẩn
+net3 = tflearn.fully_connected(net2, 128,bias_init='zeros', bias=False) # Lớp ẩn
+net4 = tflearn.fully_connected(net3, 128,bias_init='zeros', bias=False) # Lớp ẩn
+net5 = tflearn.fully_connected(net4, len(train_y[0]), activation='softmax',bias_init='zeros', bias=False) # Lớp đầu ra
+net6 = tflearn.regression(net5, optimizer='adam', loss='categorical_crossentropy') # Lớp ước tính hồi quy
 
 # Xác định mô hình (Deep Neural Network)
-model = tflearn.DNN(net7)
+model = tflearn.DNN(net6)
 # Bắt đầu train
-model.fit(train_x, train_y, n_epoch=1000, batch_size=8, show_metric=True)
+model.fit(train_x, train_y, n_epoch=1000, batch_size=64, show_metric=True)
+model.save('./data-train/model.tflearn')
+pickle.dump( {'words':words, 'classes':classes, 'train_x':train_x, 'train_y':train_y}, open( "./data-train/training_data", "wb" ) )
 
+# restore our data structures
+data = pickle.load( open( "./data-train/training_data", "rb" ) )
+words = data['words']
+classes = data['classes']
+train_x = data['train_x']
+train_y = data['train_y']
 # XỬ LÝ TIỀN DỮ LIỆU ĐẦU VÀO (REQUEST)
 def clean_up_sentence(sentence):
     sentence_words = vi.word_tokenize(sentence)
-    sentence_words = [word.lower() for word in sentence_words]
+    sentence_words = [word.lower() for word in sentence_words if word not in stop_words]
     return sentence_words
 
 # Vector hóa dữ liệu đầu vào (Tương tự phía trên)
@@ -88,6 +96,7 @@ def bow(sentence, words):
                 bag[i] = 1
     return(np.array(bag))
 
+model.load('./data-train/model.tflearn')
 # XỬ LÝ ĐẦU RA
 ERROR_THRESHOLD = 0.5 # Dropout
 def response(sentence):
@@ -95,6 +104,7 @@ def response(sentence):
     results = [[i,r] for i,r in enumerate(results)]
     # print(list(map(lambda x: x[1], results)))
     results.sort(key=lambda x: x[1], reverse=True)
+    print(results)
     return classes[results[0][0]]
 
 print(response('quốc ca'))

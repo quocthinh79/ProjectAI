@@ -1,0 +1,1475 @@
+{
+        "tag": "Ngon nhào vô",
+        "patterns": ["Thích đánh lộn không","ê đánh nhau không","đánh nhau đi"]
+},
+{
+        "tag": "có chứ, tên là tiến quân ca",
+        "patterns": ["bạn có biết tên của bài quốc ca nước mình không","biết tên đầy đủ của quốc ca là gì không", "quốc ca nước mình"]
+},
+{
+        "tag": "Mình đến từ Việt Nam",
+        "patterns": ["Bạn đến từ đâu"]
+},
+{
+        "tag": "Mày nghĩ tao còn tiền là mày sai rồi",
+        "patterns": ["Còn tiền không", "Cho mượn ít tiền coi", "Mượn tiền"]
+},
+{
+        "tag": "À tui thích xem phim, đọc truyện và đặc biệt là đi chơi qua đêm cùng bạn bè",
+        "patterns": ["bạn thường làm gì lúc rảnh","Bạn có thói quen làm gì khi rảnh vậy", "làm gì khi rảnh", "lúc rảnh bạn thường làm gì", "Thế lúc rãnh cậu thường làm gì"]
+},
+{
+        "tag": "Mình không thích hút thuốc, vì nó làm hại phổi và răng",
+        "patterns": ["Bạn có thích hút thuốc lúc rảnh không", "Có biết hút thuốc không", "Hút thuốc không"]
+},
+{
+        "tag": "Thật ra học bài đối với mình là chuyện thường xuyên, có những lúc mình thích, có những lúc mình không thích lắm",
+        "patterns": ["Bạn có thích học bài lúc rảnh không","bạn có thường xuyên học bài không"]
+},
+{
+        "tag": "Tao xuống nước cho chết à",
+        "patterns": ["Bạn có muốn đi bơi lúc rảnh không", "muốn đi bơi không","đi bơi đi"]
+},
+{
+        "tag": "mình cũng thường hay chơi thể thao",
+        "patterns": ["bạn có hay đi chơi thể thao không"]
+},
+{
+        "tag": "mình hay đi uống cà phê tại quán Cộng",
+        "patterns": ["bạn thường đi uống cà phê ở quán nào","bạn thích uống cà phê ở quán nào nhất"]
+},
+{
+        "tag": "mình thích đọc sách",
+        "patterns": ["ngoài tập thể thao ra bạn còn sở thích nào khác hay không","bạn thường thích làm gì","giữa đọc sách và xem điện thoại thì bạn thích cái nào hơn"]
+},
+{
+        "tag": "mình đã làm gì có người yêu, mình còn đang sợ ế đây này",
+        "patterns": ["bạn có người yêu chưa","bạn đã có bồ chưa"]
+},
+{
+        "tag": "Chỉ thỉnh thoảng mình mới nghe nhạc",
+        "patterns": ["Bạn có hay nghe nhạc lúc rãnh rỗi","rảnh bạn muốn nghe nhạc không"]
+},
+{
+        "tag": "Mình đi với 1 người bạn cấp 3 của mình",
+        "patterns": ["Bạn thường đi chơi với ai mỗi khi được nghỉ"]
+},
+{
+        "tag": "Cậu ấy rất thông minh",
+        "patterns": ["Cậu ấy là người như thế nào","bạn thấy cậu ta học giỏi không"]
+},
+{
+        "tag": "Mình chưa tự tin để tỏ tình cậu ấy",
+        "patterns": ["Bạn có định tỏ tình với cậu ấy trong thời gian tới không","mày nên tỏ tình bạn đó đi"]
+},
+{
+        "tag": "Tôi thỉnh thoảng sẽ chơi game",
+        "patterns": ["Cậu có hay chơi game khi rảnh không"]
+},
+{
+        "tag": "Tớ thường tìm chỗ ăn uống khi rảnh",
+        "patterns": ["Thời gian rảnh rỗi cậu thường đi đâu"]
+},
+{
+        "tag": "Bình thường tôi chỉ đọc sách một lúc thôi",
+        "patterns": ["Thường cậu giành bao nhiêu thời gian để đọc sách"]
+},
+{
+        "tag": "Chắc là tôi sẽ nghe một ít nhạc khi chán",
+        "patterns": ["Khi anh chán, anh có làm gì để vui hơn không"]
+},
+{
+        "tag": "Cậu sẽ không thích người lớn tuổi quá đâu",
+        "patterns": ["Mình nên hẹn hò với người lớn tuổi hơn không","người lớn tuổi mày thấy có nên tìm hiểu không"]
+},
+{
+        "tag": "Một số bài tập nhỏ thôi mà, một chút là xong",
+        "patterns": ["Bận bịu thế cơ à","siêng quá ta"]
+},
+{
+        "tag": "Mình hay đọc sách về văn học nghệ thuật, truyện, một ít tiểu thuyết nữa",
+        "patterns": ["Nghe lành mạnh nhỉ. Cậu hay đọc loại sách nào"]
+},
+{
+        "tag": "Mình không quan tâm cho lắm nên không đụng tới",
+        "patterns": ["Thế không đọc sách về tâm lý à","bạn có hay xem thời sự không"]
+},
+{
+        "tag": "Có tìm hiểu những cái cần thiết",
+        "patterns": ["Có hay tìm hiểu về chính trị hay pháp luật không"]
+},
+{
+        "tag": "Mình có thể cho bạn mượn sách nếu bạn thích",
+        "patterns": ["Vậy là bạn có nhiều sách lắm. Bữa nào cho mình mượn một vài cuốn tiểu thuyết được không"]
+},
+{
+        "tag": "Vấn ế đều đây",
+        "patterns": ["Dạo này sao rồi mày, có khỏe không"]
+},
+{
+        "tag": "Vài ngày nữa nếu lên kế hoạch thành công",
+        "patterns": ["Thế thì cứ bình thường vui vẻ , có dũng khí đã. Tính khi nào tỏ tình"]
+},
+{
+        "tag": "lý thuyết bàn tay phải, tao đang ở trong phòng gym",
+        "patterns": ["mày đang luyện tay nào thế"]
+},
+{
+        "tag": "mấy giờ thế",
+        "patterns": ["tao thấy quán the Coffeetown được á, đi không","tối nay đi chơi không","mai nhớ di cà phê nha"]
+},
+{
+        "tag": "tao về rồi mất công bị cách li với cả sợ người ta chặn đường không cho về",
+        "patterns": ["giờ trường cho nghỉ rồi, mày về quê chưa","bớt dịch rồi mày có về quê không"]
+},
+{
+        "tag": "không nha, tui ở nhà ngủ",
+        "patterns": ["cuối tuần mày có đi đâu chơi không đấy"]
+},
+{
+        "tag": "mình còn bài tập nhiều lắm, không có thời gian đi",
+        "patterns": ["được nghỉ mà bạn không đi chơi sao","đi chơi nè"]
+},
+{
+        "tag": "chắc không đâu bạn, mình không muốn đi lắm",
+        "patterns": ["bạn có muốn đi công viên nước với tụi mình không"]
+},
+{
+        "tag": "cuối tuần mình chỉ ở nhà xem phim thôi",
+        "patterns": ["bạn thường làm gì vào cuối tuần thế"]
+},
+{
+        "tag": "mới đầu tháng có tiền nên mình định đi mua sắm",
+        "patterns": ["bạn có dự định gì vào chủ nhật không"]
+},
+{
+        "tag": "tui định đi du lịch mà chưa quyết định được địa điểm cụ thể",
+        "patterns": ["sắp đến hè rồi, bạn có định đi đâu chơi không"]
+},
+{
+        "tag": "có chứ sao không, lâu lâu mới có dịp mà",
+        "patterns": ["sắp được nghỉ rồi, bạn có muốn đi phượt với tụi mình không","tết này mày muốn đi chơi với lớp không"]
+},
+{
+        "tag": "mình thích nhất phim hành động nha",
+        "patterns": ["bạn thích xem phim thể loại gì nhất", "thích xem phim gì"]
+},
+{
+        "tag": "bộ phim hay nhất mà mình từng được coi là avengers end game",
+        "patterns": ["bộ phim hay nhất mà bạn từng coi là phim gì", "phim hay nhất từng coi"]
+},
+{
+        "tag": "có chứ nhất ngắm đường phố vào ban đêm nè",
+        "patterns": ["bạn có thích ra ngoài đường ngắm phố phường không"]
+},
+{
+        "tag": "mình đọc truyện xem phim",
+        "patterns": ["cho mình hỏi nếu bạn không đi ra ngoài thì lúc rãnh bạn làm gì"]
+},
+{
+        "tag": "có mình hay đi ăn với bạn bè",
+        "patterns": ["mình muốn hỏi bạn có hay đi ra ngoài ăn uống không"]
+},
+{
+        "tag": "Tao thường hay chơi ở nhà là chủ yếu, khi nào chán thì tao sẽ ra quán net",
+        "patterns": ["mày thường hay chơi game ở đâu thế"]
+},
+{
+        "tag": "Tao thường hay chơi ở S2M ở gần trường đó, bạn bè của tao ngoài đó cũng đông nữa",
+        "patterns": ["Ủa thế mày hay chơi ở quán nào thế"]
+},
+{
+        "tag": "Oke vậy khi nào mày rảnh nào",
+        "patterns": ["Vậy hả, dẫn t theo đi chơi với, tao ngày rảnh toàn ở nhà không làm gì cả buồn lắm"]
+},
+{
+        "tag": "Chắc là trà tắc hoặc là sữa tươi trân châu đường đen",
+        "patterns": ["Rồi đồ uống thì sao"]
+},
+{
+        "tag": "Oke khi nào nên đôi thì báo đáp ân tình cho tao nhá",
+        "patterns": ["Ờ thì cũng có chút mà mày thân với Quỳnh nên t mới hỏi"]
+},
+{
+        "tag": "Đôi khi là có, nhưng một mình tận hưởng những giây phút thoải mái cũng rất vui mà",
+        "patterns": ["Bạn có muốn ai đó đi cùng bạn trong những lúc rãnh rỗi"]
+},
+{
+        "tag": "Mình thường chơi game Liên Minh Huyền Thoại",
+        "patterns": ["Bạn hay chơi game gì", "chơi game gì"]
+},
+{
+        "tag": "Mình thích nghe thể loại nhạc Rap",
+        "patterns": ["Bạn thích nghe nhạc thể loại nào"]
+},
+{
+        "tag": "Mình nghĩ là con gái thích ăn vặt và uống trà sữa",
+        "patterns": ["Con gái hay thích ăn uống gì vậy"]
+},
+{
+        "tag": "mình thỉnh thoảng mới nghe nhạc",
+        "patterns": ["Bạn có hay nghe nhạc lúc trong thời gian rảnh không"]
+},
+{
+        "tag": "bình thường thì mình sẽ nghe nhạc, ngủ hoặc đi uống Café với bạn bè của mình",
+        "patterns": ["ủa bình thường bạn làm gì để giải trí"]
+},
+{
+        "tag": "Ngoài ra mình còn thích nấu ăn",
+        "patterns": ["Vậy ngoài game và nghe nhạc bạn còn làm gì không"]
+},
+{
+        "tag": "Đúng rồi",
+        "patterns": ["Vậy bạn nấu ăn một mình à"]
+},
+{
+        "tag": "Có, mình thường rủ bạn bè ra ngoài ăn",
+        "patterns": ["Khi rảnh bạn có hay đi ra ngoài chơi không"]
+},
+{
+        "tag": "Học bài thì mình nghĩ là bận rồi",
+        "patterns": ["Vậy khi rảnh bạn có học bài không", "có học bài khi rảnh không"]
+},
+{
+        "tag": "mình thường đi uốn nước cùng bạn bè, thỉnh thoảng chơi một vài ván game",
+        "patterns": ["thời gian rãnh bạn hay làm gì"]
+},
+{
+        "tag": "Không, tao là máy tính nên tao không muốn chết",
+        "patterns": ["bạn có đi bơi thường xuyên không"]
+},
+{
+        "tag": "mình hay đi phượt xa thường là Đà Lạt",
+        "patterns": ["bạn hay đi đâu vào ngày nghĩ"]
+},
+{
+        "tag": "có mình nay sưu tầm lego",
+        "patterns": ["bạn có bộ sưu tập nào không"]
+},
+{
+        "tag": "có mình thích nấu ăn và mình cũng hay nấu ăn khi rãnh rỗi",
+        "patterns": ["bạn có hay làm việc nhà không"]
+},
+{
+        "tag": "chúng mình có điểm chung là rất thích đi phượt đến những nơi xa",
+        "patterns": ["bạn với người ấy có chung đam mê như thế nào"]
+},
+{
+        "tag": "có chứ, chúng mình rất hay ăn đêm cùng nhau",
+        "patterns": ["các bạn có hay ăn đêm cùng nhau không"]
+},
+{
+        "tag": "tùy mỗi người nhưng hợp nhau tự nhiên sẽ đến được với nhau thôi",
+        "patterns": ["bạn nghĩ con gái thường thích con trai như thế nào"]
+},
+{
+        "tag": "không có đâu, chúng mình chỉ là bạn bình thường thôi",
+        "patterns": ["bạn và Bình Nhi đang đang quen nhau à, sao thấy hai người hay ăn chung lắm"]
+},
+{
+        "tag": "có chứ mình thường hay tâm sự với những người bạn cùng phòng",
+        "patterns": ["bạn có hay tâm sự về chuyện tình yêu với bạn bè hay không"]
+},
+{
+        "tag": "thường thì tao hay xem phim chiếu rạp, phim lẻ, tại xem phim bộ dài lắm",
+        "patterns": ["mày hay xem phim gì"]
+},
+{
+        "tag": "đi ra highland coffee gần nhà mình uống nước kìa, có anh nhân viên cực kì đẹp trai mới tới làm",
+        "patterns": ["giờ t rảnh quá nè, cho tao một vài option để giải trí đi mày"]
+},
+{
+        "tag": "đi liền nhé",
+        "patterns": ["mày đi chung với tao không"]
+},
+{
+        "tag": "có phim mới ra hay lắm, đi xem",
+        "patterns": ["đi uống nước xong thì đi đâu mày"]
+},
+{
+        "tag": "Cũng được mà kiếm chỗ rẻ rẻ nhen, thay đồ đi tao qua đón",
+        "patterns": ["hay đi ăn không mày, tao hơi đói bụng"]
+},
+{
+        "tag": "mình không quan trọng quá vấn đề này, mình nghĩ hơn nhau 1 2 tuổi cũng được",
+        "patterns": ["bạn thích người lớn tuổi hơn hay nhỏ tuổi hơn"]
+},
+{
+        "tag": "mình nghĩ mình thích hiền, dễ thương, biết lắng nghe và hiểu chuyện",
+        "patterns": ["Về tính tình thì sao"]
+},
+{
+        "tag": "Mình thường ra quán cà phê",
+        "patterns": ["Bạn thường ở đâu khi rảnh"]
+},
+{
+        "tag": "Ngoài sách giáo khoa thì mình chưa đọc bao giờ",
+        "patterns": ["Bạn có đọc sách lúc rảnh chứ", "có đọc sách lúc rảnh không"]
+},
+{
+        "tag": "Mình nghỉ sẻ có nhưng không phải lúc này vì mình chưa tìm được cuốn sách truyền cảm hứng",
+        "patterns": ["Bạn có muốn thử không"]
+},
+{
+        "tag": "Nếu bạn nghỉ nó phù hợp với mình thì mình rất sẳn lòng :)",
+        "patterns": ["Mình có thể tặng bạn 1 quyển sách để bạn thực hành"]
+},
+{
+        "tag": "Nếu cả 2 không thay đổi thì đó là chuyện đương nhiên",
+        "patterns": ["Bạn sẻ cưới cô ấy chứ"]
+},
+{
+        "tag": "thật ra tính cách mình cũng hơi nhát với lại mình cũng chưa biết cậu ấy có thích mình hay không nên mình chưa dám tỏ tình",
+        "patterns": ["tại sao cậu lại không tỏ tình"]
+},
+{
+        "tag": "mình cũng không biết nữa, chắc do tính cách mình như vậy",
+        "patterns": ["sao cậu lại nhát vậy"]
+},
+{
+        "tag": "được thôi mình đi ăn lẩu teokbokki nha",
+        "patterns": ["chủ nhật này đi ăn lẩu không bạn"]
+},
+{
+        "tag": "mình cũng định học nhưng sau đó toàn kết thúc bằng việc lấy đàn ra gảy được hai ba cái xong lại cất vào",
+        "patterns": ["thấy nhà bạn có cây guitar vậy chắc lúc rảnh hay học đánh nhỉ"]
+},
+{
+        "tag": "mình không thích nấu ăn bạn ơi",
+        "patterns": ["bạn có hay nấu ăn lúc rảnh không"]
+},
+{
+        "tag": "mình nghe nhạc hoặc ngủ",
+        "patterns": ["bạn thích làm gì để thư giãn"]
+},
+{
+        "tag": "mình thích vẽ tranh nhưng mình vẽ xấu lắm nên mình không vẽ để bảo vệ con mắt của mình và người khác bạn nhé",
+        "patterns": ["bạn có thích vẽ tranh lúc có thời gian rảnh không"]
+},
+{
+        "tag": "Mình hay đi chơi",
+        "patterns": ["Bạn thường làm gì lúc rảnh"]
+},
+{
+        "tag": "Tất nhiên rồi",
+        "patterns": ["Bạn cho mình kết bạn và chơi chung nhé"]
+},
+{
+        "tag": "Mình xem một vài bộ phim hài hước, nhẹ nhàng để thư giãn",
+        "patterns": ["Bạn làm gì khi có thời gian rảnh"]
+},
+{
+        "tag": "Mình muốn đi du lịch với gia đình nếu có nhiều tiền và cả gia đình mình đều rảnh, không đơn giản chỉ cần về nhà với ba mẹ thôi",
+        "patterns": ["Bạn muốn đi đâu nếu có một kì nghỉ dài"]
+},
+{
+        "tag": "Mình rất thích chơi với động vật khi rảnh, như chó, mèo vì chúng rất dễ thương và khi ngắm chúng đùa nghịch mình thấy thoải mái, vui vẻ",
+        "patterns": ["Bạn có thích chơi với động vật khi rảnh không"]
+},
+{
+        "tag": "Mình có chơi game khi rảnh, đôi khi chơi một vài game với bạn bè thì thấy thời gian trôi rất nhanh",
+        "patterns": ["Bạn có chơi game khi rảnh không"]
+},
+{
+        "tag": "cần điểm rèn luyện để xét tốt nghiệp nhé",
+        "patterns": ["nghe nói cần có điểm rèn luyện trong học kỳ"]
+},
+{
+        "tag": "bạn cần theo dõi fanpage trường để đăng ký tham gia hoạt động",
+        "patterns": ["vậy làm thế nào để có điểm rèn luyện"]
+},
+{
+        "tag": "trường có thông báo cụ thể trên hệ thống thông tin sinh viên đó",
+        "patterns": ["điểm rèn luyện tính thế nào mới đủ"]
+},
+{
+        "tag": "thỉnh thoảng sẽ đi làm thêm",
+        "patterns": ["bạn có đi làm thêm không"]
+},
+{
+        "tag": "tôi đi làm tại quán cà phê hoặc chạy grab",
+        "patterns": ["bạn thường làm thêm ở đâu"]
+},
+{
+        "tag": "có đi tham quan cảng nhà rồng, được điểm rèn luyện",
+        "patterns": ["ngoài việc học bạn có đi đâu không"]
+},
+{
+        "tag": "thình thoảng cũng có chơi game",
+        "patterns": ["nghe nói người ngành mình thích chơi game lắm"]
+},
+{
+        "tag": "cuộc thi rất hay nhưng có dịch bệnh",
+        "patterns": ["trường có tổ chức cuộc thi nét đẹp sinh viên"]
+},
+{
+        "tag": "dịch đang khắc phục, dự kiến cuối tháng là tổ chức rồi",
+        "patterns": ["vậy còn tổ chức không"]
+},
+{
+        "tag": "mình không đủ tự tin về sắc đẹp bản thân",
+        "patterns": ["bạn có tham gia không"]
+},
+{
+        "tag": "Phim hay thì nhiều, nhưng mày thích xem thể loại gì",
+        "patterns": ["dạo này có phim gì hay không"]
+},
+{
+        "tag": "Mày xem phim người đẹp và quái vật đi, hay lắm",
+        "patterns": ["Tao thích xem phim lẻ","mày có biết phim nào hay không"]
+},
+{
+        "tag": "Xem đi, tao kể cho mày xong thì còn gì xem nữa",
+        "patterns": ["Phim kể về gì vậy"]
+},
+{
+        "tag": "Sao vậy nè, có gì kể tao nghe với",
+        "patterns": ["Mày ơi, tự nhiên tao cảm thấy chán đời quá"]
+},
+{
+        "tag": "Có phải mày đang thất tình phải không",
+        "patterns": ["Thì tự nhiên chán thôi"]
+},
+{
+        "tag": "Trời, tao mà, bạn thân lâu năm sao không biết được",
+        "patterns": ["Làm gì có, sao mày biết hay vậy"]
+},
+{
+        "tag": "Phim hay thì nhiều, nhưng mày thích xem thể loại gì",
+        "patterns": ["dạo này có phim gì hay không"]
+},
+{
+        "tag": "Sao vậy nè, có gì kể tao nghe với",
+        "patterns": ["Mày ơi, tự nhiên tao cảm thấy chán đời quá","tao với người yêu chia tay rồi mày","tự nhiên ta buồn quá"]
+},
+{
+        "tag": "Có phải mày đang thất tình phải không",
+        "patterns": ["Thì tự nhiên chán thôi"]
+},
+{
+        "tag": "Trời, tao mà, bạn thân lâu năm sao không biết được",
+        "patterns": ["Làm gì có, sao mày biết hay vậy"]
+},
+{
+        "tag": "Có gì đâu mà buồn, kiếm đứa khác thui, lấy đó làm động lực phấn đấu đi",
+        "patterns": ["Thì đó"]
+},
+{
+        "tag": "mình có chơi bóng rổ",
+        "patterns": ["ngoài chơi game ra bạn có chơi môn thể thao nào không"]
+},
+{
+        "tag": "hồi trước mình có tập chơi nhưng giờ ít chơi rồi",
+        "patterns": ["bạn có chơi bóng đá không"]
+},
+{
+        "tag": "mình thường chơi ở gần nhà hoặc ở trường",
+        "patterns": ["bạn thường chơi bóng rổ ở đâu"]
+},
+{
+        "tag": "mình thường chơi vào thứ 3 và thứ 5",
+        "patterns": ["bạn thường chơi vào giờ nào"]
+},
+{
+        "tag": "chơi pubg với tụi tui nè, đang thiếu 1 slot",
+        "patterns": ["dạo này có game gì mới không ông, chứ chơi liên mình hoài chán quá"]
+},
+{
+        "tag": "tui thường chơi gần trường, cũng rẻ lắm",
+        "patterns": ["ông hay chơi net ở đâu vậy"]
+},
+{
+        "tag": "ở gần nhà tui có một chỗ, để tui nhắn địa chỉ cho ông",
+        "patterns": ["ông biết chỗ nào ăn nướng giá sinh viên không, chỉ tui với"]
+},
+{
+        "tag": "gần đây có quán karaoke nè, hay qua đó đi",
+        "patterns": ["tăng 2 có muốn đi đaua không mọi người"]
+},
+{
+        "tag": "thôi mua tốn tiền lắm, mình đi ăn là được rồi",
+        "patterns": ["sắp đến sinh nhật em rồi, em muốn mua gì không để anh mua cho","anh mới có lương em muốn gì anh mua nè"]
+},
+{
+        "tag": "thiệt hả, tui cũng có cảm tình với bạn đó, mà chưa dám ngỏ lời",
+        "patterns": ["ê tui thấy bạn lớp bên cạnh xinh lắm, mà hình như cũng thích ông nữa đấy, hay thử cho người ta một cơ hội đi"]
+},
+{
+        "tag": "có đâu, tụi tui chỉ là bạn thôi",
+        "patterns": ["ông với Hoa đang quen nhau à, thấy dạo này 2 người hay đi chung lắm"]
+},
+{
+        "tag": "Lúc rảnh thì mình đi chơi game",
+        "patterns": ["Thường lúc rảnh thì bạn làm gì vậy"]
+},
+{
+        "tag": "Minh chơi ở tiệm Net 269",
+        "patterns": ["Thường bạn choi game ở tiệm nào vậy"]
+},
+{
+        "tag": "Có, mình cũng thích đá banh",
+        "patterns": ["Bạn có thích đá banh không"]
+},
+{
+        "tag": "Mình đá với lớp bên cạnh nè",
+        "patterns": ["Bạn đá banh với ai vậy","mai đội mình đá với ai thế"]
+},
+{
+        "tag": "mình đang lướt facebook thôi",
+        "patterns": ["Bạn đang làm gì đấy","bạn có đang bận đó không"]
+},
+{
+        "tag": "Biết chứ, biết nhiều là đằng khác",
+        "patterns": ["mày có biết người đứng cạnh cửa đó là ai không"]
+},
+{
+        "tag": "Không những nghe vào lúc rảnh mà nghe mọi lúc luôn",
+        "patterns": ["Bạn có nghe nhạc lúc rảnh không"]
+},
+{
+        "tag": "Mình thích những người hoạt bát, vui vẻ, hòa đồng",
+        "patterns": ["Mẫu người lý tưởng của bạn là gì"]
+},
+{
+        "tag": "Đếm trên đầu ngón tay à bạn do mình là người sống hơi nội tâm",
+        "patterns": ["Bạn từng trải qua bao nhiêu mối tình rồi"]
+},
+{
+        "tag": "Mình cũng không nhớ rõ chắc là khoảng năm mình học lớp 11",
+        "patterns": ["Mối tình đầu của bạn là năm bao nhiêu tuổi"]
+},
+{
+        "tag": "Mình thường đọc tiểu thuyết và nghe nhạc",
+        "patterns": ["Bạn thường làm gì lúc rảnh rỗi"]
+},
+{
+        "tag": "Mình thường ở nhà",
+        "patterns": ["Bạn thường đi đâu lúc rảnh rỗi"]
+},
+{
+        "tag": "tao định đi phượt xuống miền Tây",
+        "patterns": ["Tết này mày có đi đâu chơi không"]
+},
+{
+        "tag": "đi luôn gửi địa chỉ cho tôi đi",
+        "patterns": ["Cuối tuần đi ăn liên hoan không bà","mốt nhớ đi sinh nhật tui nha"]
+},
+{
+        "tag": "Chơi chứ ai sợ ai",
+        "patterns": ["Học bài xong chơi liên quân không","chơi game không"]
+},
+{
+        "tag": "Mình thưởng giải trí bằng việc ngồi ở nhà chơi game với bạn bè nhưng cũng có lúc mình đi ra ngoài giải trí",
+        "patterns": ["Những lúc bạn rành rồi bạn có đi đâu để giải trí hay là bạn giải trí tại nhà"]
+},
+{
+        "tag": "Lúc rảnh rỗi thì mình thường chơi game",
+        "patterns": ["Bạn thường làm gì khi rảnh nhỉ"]
+},
+{
+        "tag": "Mình chơi game liên minh huyền thoại nhé",
+        "patterns": ["Bạn dạo này thường chơi game gì ấy"]
+},
+{
+        "tag": "Mình là vua trò chơi bạn nhé",
+        "patterns": ["Bạn chơi game có hay không"]
+},
+{
+        "tag": "Mình rất hay chạy bộ tập thể dục với bạn bè",
+        "patterns": ["Bạn có thường hay chạy bộ không"]
+},
+{
+        "tag": "Mình có",
+        "patterns": ["Bạn có sẵn sàng kết thêm bạn mới không","Bạn có nhiều bạn bè không","Bạn có hay ra ngoài cùng bạn bè không"]
+},
+{
+        "tag": "Mình rất hay quan tâm đến bạn bè",
+        "patterns": ["Bạn có hay quan tâm đến tâm trạng của bạn bè không"]
+},
+{
+        "tag": "Mình có khá nhiều bạn thân",
+        "patterns": ["Bạn thân của bạn là ai","bạn có chơi thân với ai không"]
+},
+{
+        "tag": "Mình nghĩ điều đó sẽ rất tuyệt",
+        "patterns": ["Bạn nghĩ sao về việc kêt bạn qua mạng","bạn có muốn kết bạn với mình không","mai bạn đến nhà mình dự tiệc nhé"]
+},
+{
+        "tag": "Tùy vào tình huống của buổi đi chơi đó",
+        "patterns": ["tâm trạng của bạn như thế nào khi tham gia các buổi đi chơi với bạn bè","bạn có nói chuyện nhiều với bạn bè trong các buổi đi chơi không"]
+},
+{
+        "tag": "mình không thích cái đó",
+        "patterns": ["bạn nghĩ sao về mối quan hệ friend with benefit","bạn có thích một mối quan hệ mập mờ không","bạn nghĩ sao về việc lừa bạn kia"]
+},
+{
+        "tag": "Có chứ, mình có rất nhiều bạn bè xung quanh",
+        "patterns": ["Bạn cảm thấy mình là một người hòa đồng không"]
+},
+{
+        "tag": "Tình bạn là san sẻ, thấu hiểu nhau, giúp đỡ nhau khi gặp khó khăn",
+        "patterns": ["Bạn nghĩ thế nào về tình bạn","quan điểm về bạn bè của bạn là gì"]
+},
+{
+        "tag": "Mình sẽ chia sẽ cho bạn bè và họ sẽ cho mình những lời khuyên",
+        "patterns": ["Vậy khi bạn gặp chuyện buồn, bạn sẽ chia sẻ với bạn bè hay bạn giữ trong lòng"]
+},
+{
+        "tag": "hơn 10 năm nha",
+        "patterns": ["mối quan hệ bạn bè lâu nhất của bạn đến nay là bao lâu"]
+},
+{
+        "tag": "mình thấy bạn của mình toàn những đứa điên điên khùng khùng",
+        "patterns": ["bạn của bạn có phải là những người vui tính không"]
+},
+{
+        "tag": "đám bạn mình là chuyên gia cáu bẩn",
+        "patterns": ["bạn bè bạn có hay cáu bẩn không"]
+},
+{
+        "tag": "Thích chứ",
+        "patterns": ["bạn có thích đi chơi với bạn bè của mình không","bạn có thích gặp mặt bạn bè của mình thường xuyên không"]
+},
+{
+        "tag": "Bạn thân mình học ở nhiều trường khác",
+        "patterns": ["bạn thân của bạn có học cùng trường đại học với bạn không"]
+},   
+{
+        "tag": "Mình sẽ buồn",
+        "patterns": ["Bạn sẽ làm thế nào nếu bị bạn bè lợi dụng","bông nhiên một ngày bạn bè không chơi với bạn nữa thì bạn sẽ cảm thấy thế nào","cuối cấp chia tay bạn bè bạn cảm thấy thế nào"]
+},
+{
+        "tag": "Mình sẽ dùng Machine Learning để tính toán xem người ấy có đủ khả năng chi trả tiền vốn lẫn lời không",
+        "patterns": ["Bạn nghĩ sao nếu bạn bè mượn tiền bạn","trước khi cho bạn bè mượn tiền bạn sẽ làm gì","bạn có nghĩ bạn bè bị người khác giả mạo để mượn tiền không"]
+},
+{
+        "tag": "Theo quan điểm cá nhân mình, thì bạn bè nên sòng phẳng với nhau và hạn chế mượn tiền của nhau",
+        "patterns": ["Bạn bè có nên dính liếu đến tiền bạc không","bạn có muốn chia tiền mỗi lần đi chới với bạn bè không","bạn có suy nghĩ gì về việc mượn tiền của nhau"]
+}, 
+{
+        "tag": "Mình cũng có khá nhiều bạn bè á hí hí",
+        "patterns": ["Bạn có nhiều bạn bè không"]
+}, 
+{
+        "tag": "đối với mình, một người bạn tốt là người anh em chia nhau điếu thuốc, bẻ nhau miếng bánh",
+        "patterns": ["với bạn, thế nào là một người tốt và đáng tin cậy"]
+},     
+{
+        "tag": "mình chưa có được đi du lịch ở nước ngoài bao giờ, nhưng trong nước thì mình cũng đi được nhiều rồi",
+        "patterns": ["Trước đây bạn đã từng đi du lịch ở đâu chưa"]
+},
+{
+        "tag": "mình chưa",
+        "patterns": ["Bạn đã từng đi đâu một mình chưa","đã bao giờ bạn đi cà phê ngồi một mình chưa"]
+},
+{
+        "tag": "hôm nay mình vẫn ổn cho tới khi mình trả lời câu hỏi này",
+        "patterns": ["hôm nay bạn như thế nào"]
+},
+{
+        "tag": " bọn tớ đang có dự định kết hôn",
+        "patterns": ["Dạo này cậu và Hân sao rồi"]
+}, 
+{
+        "tag": "Có tớ quen cả khoa luôn",
+        "patterns": ["Cậu có thân với bạn nữ nào khoa Quản trị kinh doanh không"]
+}, 
+{
+        "tag": "Ở chắc ít người nhưng thân",
+        "patterns": ["Bạn thích có nhiều người bạn hay một vài người nhưng thân"]
+},    
+{
+        "tag": "Ai mình cũng thích chơi cả",
+        "patterns": ["Bạn thích chơi với ai nhất"]
+}, 
+{
+        "tag": "Có. Các môn học trên trường mình thường đăng ký chung với bạn mình",
+        "patterns": ["Các môn học trên trường bạn có học chung với bạn bè không","bạn có thích học chung với bạn bè không"]
+},    
+{
+        "tag": "Nhiều bạn của mình bị dở người lắm",
+        "patterns": ["Bạn bè của bạn có đứa nào bị dở người hay không"]
+},     
+{
+        "tag": "Mai mình ở nhà cả ngày",
+        "patterns": ["Mai bạn có rãnh không, bạn có muốn ra ngoài chill tí không"]
+},     
+{
+        "tag": "có đấy, hơn nữa chúng tôi còn học chung lớp với nhau",
+        "patterns": ["Bạn thân của bạn học cùng trường với bạn không"]
+}, 
+{
+        "tag": "Tuy chúng nó hay chọc ghẹo tôi nhưng tôi vẫn rất quý bọn nó",
+        "patterns": ["Bạn cảm thấy như thế nào về bạn thân của bạn"]
+},   
+{
+        "tag": "Cày phim",
+        "patterns": ["Lúc buồn, bạn thường làm gì"]
+},  
+{
+        "tag": "đại học là học đại",
+        "patterns": ["Quan điểm của bạn về việc học đại học là gì", "đại học là gì"]
+}, 
+{
+        "tag": "Cũng nhiều đó",
+        "patterns": ["Bạn có nhiều bạn bè không","trong lớp bạn có quen ai không","bạn có hay tham gia các hoạt động bên ngoài giờ học không"]
+}, 	
+{
+        "tag": "buồn lắm, hehe",
+        "patterns": ["Bạn thấy thế nào nếu không có bạn bè","bạn sẽ cảm thấy thế nào nếu bạn hoặc bạn của bạn nghỉ học"]
+},   
+{
+        "tag": "có nhậu rất nhiều",
+        "patterns": ["Bạn có hay đi nhậu với bạn bè không","bạn bè của bạn có biết nhậu không"]
+},         
+{
+        "tag": "chơi game",
+        "patterns": ["bạn thường làm gì với bạn thân"]
+},
+{
+        "tag": "Tâm sự",
+        "patterns": ["bạn làm gì để giữ mối quan hệ lâu dài","lúc buồn bạn sẽ làm gì với bạn bè"]
+},   
+{
+        "tag": "Xa lắm ông",
+        "patterns": ["bạn bè của bạn có sống gần bạn không","trương bạn học có gần nhà của bạn không"]
+},  
+{
+        "tag": "Vâng dĩ nhiên khó rồi",
+        "patterns": ["Nhập môn trí tuệ nhân tạo có khó không"]
+},
+{
+        "tag": "Gì cũng được",
+        "patterns": ["Hôm nay bạn muốn ăn gì","bạn muốn uống gì không","bạn muốn chơi cái gì"]
+}, 
+{
+        "tag": "Mình ăn quán là chủ yếu",
+        "patterns": ["bạn thường xuyên nấu ăn không và việc nấu ăn có gây khó khăn cho bạn không"]
+},
+{
+        "tag": "Đi giúp đỡ những người gia neo đơn",
+        "patterns": ["bạn có thích tham gia các công việc tình nguyện không", "công việc tình nguyện bạn yêu thích là gì"]
+},
+{
+        "tag": "Mình hay đi xe máy",
+        "patterns": ["bạn thường chọn loại phương tiện gì để đi học và đi chơi"]
+},
+{
+        "tag": "Quán sạch, đông khách",
+        "patterns": ["bạn thường chọn quán ăn như thế nào trong những lần ra ngoài", "dựa vào những tiêu chí nào để bạn chọn quán ăn"]
+},
+{
+        "tag": "không mình là con cả, mình còn đứa em gái",
+        "patterns": ["bạn là con út phải không hay còn anh chị em nào khác nữa"]
+},
+{
+        "tag": "mình thấy nhân loại là một chủng loài kì lạ lắm. Thế giới làm mình mệt mỏi nhưng cuốn lắm",
+        "patterns": ["bạn cảm thấy như thế nào về nhân loại"]
+}, 
+{
+        "tag": "okie okie luôn",
+        "patterns": ["Bạn cảm thấy thư thế nào nếu mình chuyển về nhà sống chung với bạn", "liệu chúng ta có thể cùng nhau nấu ăn không"]
+},    
+{
+        "tag": "Đúng rồi đau lắm",
+        "patterns": ["Tớ thấy cậu bị mất 1 cái răng , cậu bị ngã cầu thang à"," cậu mới bị tai nạn hả có sao không","cậu đang mọc răng khôn hả có đau không:]
+}, 
+{
+        "tag": "Mình có học NLP.Tại môn đó thú vị.Môn này không khó",
+        "patterns": ["Bạn có học NLP không Tại sao bạn lại chọn môn đó Môn đó khó không"]
+},
+{
+        "tag": "Theo mình nghĩ theo châm ngôn của Huấn Hoa Hồng 'Có làm thì mới có ăn , không làm mà đòi có ăn thì có ăn *** ",
+        "patterns": ["Cho mình hỏi làm thế nào để thành công", "thế nào để thành công"]
+}, 
+{
+        "tag": "Tao làm ra được rồi mà nó hơi ngu",
+        "patterns": ["Mày làm ra con bot chưa, tao làm miết không được"]
+},
+{
+        "tag": "Lên lịch liền đi chứ nói cái gì",
+        "patterns": ["Khi nào đi chơi không","nghỉ này chán quá đi chơi không"]
+}, 
+{
+        "tag": "hôm nay trời xấu lắm , khỏi nhậu nha",
+        "patterns": ["hôm nay trời như thế nào nếu không mưa thì đi nhậu không"]
+},  
+{
+        "tag": "Tao làm ra được rồi mà nó hơi ngu",
+        "patterns": ["Mày làm ra con bot chưa, tao làm miết không được"]
+},
+{
+        "tag": "Lên lịch liền đi chứ nói cái gì",
+        "patterns": ["Khi nào đi chơi không, lâu rồi không có cái tin nhắn nào"]
+}, 
+{
+        "tag": "Tao không phải phù thủy",
+        "patterns": ["Mày có dự đoán trước được tương lai không như là thiên tai hay bệnh dịch gì chẳng hạn","mày coi xem khi nào thì tao giàu được"]
+},
+{
+        "tag": "Được. Nếu tạo được học về Machine Learning",
+        "patterns": ["Mày dự đoán được số người bị bệnh không "]
+},
+{
+        "tag": "Python chứ",
+        "patterns": ["Mày được tạo ra từ ngôn ngữ gì"]
+},
+{
+        "tag": "Natural Language Processing nhé, chứ không phải Neuron Language Processing đâu",
+        "patterns": ["NLP được định nghĩa là gì"]
+}, 
+{
+        "tag": "Cuộc sống em khổ cực, không ổn xíu nào, kinh tế khó khăn, bạn bè lừa đảo",
+        "patterns": ["Cuộc sống em ổn không, có giống em hi vọng"]
+},
+{
+        "tag": "Mình nghĩ trận đấu tối qua không hay bằng trận đấu này mặc dù trận đấu này không hay bằng trận đấu hôm trước",
+        "patterns": ["Sau một tuần đi xem các giải đấu thì bạn có nghĩ rằng trận đấu tối qua hay hơn hay trận đấu này hay hơn"]
+},  
+{
+        "tag": "Tớ nghĩ ngoài việc học tập ở trường lớp, tự học là cần thiết hơn cả để học tốt bất kì môn nào không chỉ",
+        "patterns": ["Cậu có thể chỉ tớ phương pháp học để tớ có thể tiếp thu môn học này một cách tốt nhất không"]
+},
+{
+        "tag": "Axit gặp quỳ tím sẽ hóa đỏ. Bazo tác dụng oxit axit cho ra muối và nước",
+        "patterns": ["Axit gặp với quỳ tím thì sao  Sẽ thế nào nếu cho Bazo tác dụng với oxit axit"]
+}, a cầu mà té . Chú bán ếch ở lại làm chi . Tại sao con le le đánh trống thổi kèn , tại sao con bìm bịp thổi tò tí te tò te"]
+{
+        "tag": "tam giác có một góc vuông là tam giác vuông",
+        "patterns": ["chứng minh tam giác vuông","tam giác như thế nào được gọi là tam giác vuông"]
+},
+{
+        "tag": "nhìn hình ta thấy",
+        "patterns": ["chứng minh ba điểm thẳng hàng","làm thế nào để biết 3 điểm đó thẳng hàng"]
+},
+{
+        "tag": "Giá trị thặng dư tư bản chủ nghĩa (m) là một phần giá trị mới do lao động sống tạo thêm ra ngoài giá trị hàng hoá sức lao động, là lao động không được trả công của người lao động làm thuê. Có 2 loại là giá trị thặng dư tương đối và giá trị thặng dư tuyệt đối",
+        "patterns": ["Giá trị thặng dư là gì"]
+},
+{
+        "tag": "Tiền tệ là thước đo giá trị, dùng để đo lường giá trị của các loại hàng hóa.Chức năng của tiền tệ là: trao đổi, phương tiện thanh toán, tích lũy",
+        "patterns": ["Tiền tệ là gì"]
+},
+{
+        "tag": "không bạn, nhiều câu thì được",
+        "patterns": ["Mình hỏi bạn một câu được không","bạn giải giúp mình 1 câu này được không"]
+},  
+{
+        "tag": "âm 38.88 độ C ",
+        "patterns": ["Nhiệt độ nóng chảy của thủy ngân là bao nhiêu"]
+},   
+{
+        "tag": "mình nhớ là Vịnh Hạ Long, Hội An ,..",
+        "patterns": ["những danh lam thắng cảnh ở nước ta ở đâu"]
+},
+{
+        "tag": "tớ nghĩ là do người dân đồng lòng chống dịch",
+        "patterns": ["nước ta đã chống covid 19 như thế nào","đâu là lí do mà nước ta dập được rất nhiều đợt dịch"]
+},
+{
+        "tag": "Mình thích Vũng Tàu nhất",
+        "patterns": ["Bạn thích nơi nào nhất ở Việt Nam"]
+},
+{
+        "tag": "Vì ở đó tôi có thể thưởng thức hải sản với giá rẻ",
+        "patterns": ["Vì sao bạn thích nơi đó"]
+},
+{
+        "tag": "tất nhiên là tôi muốn đi Đà Nẵng rồi",
+        "patterns": ["Bạn có muốn đi Đà Nẵng không"]
+},
+{
+        "tag": "thủ đô của đất nước mình ở Hà Nội",
+        "patterns": ["Thủ đô của đất nước bạn ở đâu"]
+},    
+{
+        "tag": "Mình cũng muốn đi các đất nước Châu Âu",
+        "patterns": ["Bạn có muốn đi đâu ngoài nước không"]
+},   
+{
+        "tag": "Có chứ , tớ rất yêu nước",
+        "patterns": ["Cậu có yêu nước không"]
+}, 
+{
+        "tag": "Là chủ tịch Hồ Chí Minh",
+        "patterns": ["Thế ai là người đã đi tìm đường cứu nước"]
+},
+{
+        "tag": "Hình như sông Cửu Long phải không",
+        "patterns": ["Nước mình bạn có biết con sông nào dài nhất không"]
+},
+{
+        "tag": "chúng ta đã và đang cố gắng dập dịch từng ngày từng giờ",
+        "patterns": ["Tình hình Covid ở Việt Nam thế nào rồi"]
+},
+{
+        "tag": "có chứ họ rất nồng nhiệt với du khách",
+        "patterns": ["Người dân Việt Nam có hiếu khách không","bạn có muốn đi du lịch Việt Nam không"]
+},
+{
+        "tag": "Ở Việt Nam ở đâu cũng có cảnh đẹp",
+        "patterns": ["Việt Nam ở đâu đẹp nhất"]
+},
+{
+        "tag": "Hình như Trung Quốc , Lào , Campuchia và Biển đông",
+        "patterns": ["Việt Nam giáp với các nước nào"]
+},
+{
+        "tag": "Tao tính chắc hè về, để dành tiền dẫn tao đi ăn món việt đi, thèm quá, đồ ăn bên đây chán chết, không hợp khẩu vị chút nào",
+        "patterns": ["Khi nào về Việt Nam mày, anh em nhớ mày quá rồi"]
+},
+{
+        "tag": "63 tỉnh thành, đi phượt nhiều vào cho biết với người ta đi em",
+        "patterns": ["Việt Nam có bao nhiêu tỉnh thành vậy mày"]
+},
+{
+        "tag": "Được thì cuối tuần bố dắt mày đi vài vòng thành phố cho biết",
+        "patterns": ["Tao mới từ tỉnh lên sài gòn học, chưa biết đi đâu mày dắt đi chơi lòng vòng thành phố đi"]
+},  
+{
+        "tag": "Vẫn ăn tết bình thường nha bạn",
+        "patterns": ["Tết năm nay dân ta có ăn tết được không","năm nay được ăn tết không nhờ"]
+},
+{
+        "tag": "Hiện tại đều đã được cách ly",
+        "patterns": ["Hiện tại có nhiều người bị mắc Covid không"]
+},
+{
+        "tag": "Tháng sáu này sẽ đi",
+        "patterns": ["Khi nào chúng ta đi du lịch","khi nào mày vào học lại"]
+},
+{
+        "tag": "Tụi mình sẽ đi xe máy",
+        "patterns": ["Chúng ta đi bằng gì"]
+},
+{
+        "tag": "Tập hợp ở nhà mình nhé",
+        "patterns": ["Tụ mình tập hợp ở đâu"]
+},
+{
+        "tag": "Ừ, đi. Nhớ rủ mấy đứa bữa hổm",
+        "patterns": ["Thế hôm nào đi nữa không"]
+},
+{
+        "tag": "có chứ ông",
+        "patterns": ["ở đó có đặc sản gì không ông"]
+}, 
+{
+        "tag": "thanh long nữa",
+        "patterns": ["còn gì khác không ông"]
+},
+{
+        "tag": "Có rất nhiều, đặc biệt là TP Vũng Tàu và Bà Rịa",
+        "patterns": ["Có địa điểm du lịch nào nổi tiếng không"]
+}, 
+{
+        "tag": "Có.Việt Nam có Vịnh Hạ Long được UNESCO hai lần công nhận là di sản thiên nhiên thế giới",
+        "patterns": ["Đất nước của bạn có danh lam thắng cảnh nào nổi tiếng không"]
+}, 
+{
+        "tag": "người Việt Nam rất thân thiện",
+        "patterns": ["bạn nghĩ gì về con người Việt Nam"]
+}, 
+{
+        "tag": "mình rất tự hào khi là người Việt Nam",
+        "patterns": ["bạn có tự hào khi là người Việt Nam không"]
+}, 
+{
+        "tag": "Đúng rồi bạn, mình là du học sinh đó bạn !",
+        "patterns": ["Chào bạn, mình chưa thấy bạn bao giờ có vẻ bạn là mới tới đây hả","trông bạn lạ quá bạn là du học sinh hả"]
+},
+{
+        "tag": "Mình là du học sinh nước Việt Nam đó bạn !",
+        "patterns": ["Cho mình hỏi là bạn là du học sinh nước nào vậy nhỉ"]
+},  
+{
+        "tag": "Có chứ bạn",
+        "patterns": ["Bạn có người thân sinh sống bên 
+{
+        "tag": "Mùng 10 tháng 3",
+        "patterns": ["Khi nào là Giỗ tổ Hùng Vương vậy"]
+},
+{
+        "tag": "Vùng đất Nghệ An",
+        "patterns": ["Hồ Chí Minh sinh ra ở đâu vậy","bạn có biết bác Hồ sinh ra ở đâu không"]
+},  
+{
+        "tag": "Chắc chắc là kẹo dừa rồi",
+        "patterns": ["Mình nên mua quà gì ở Bến Tre đây","bạn có biết đặc sản của Bến Tre là gì không","cái gì nổi tiếng nhất ở Bến Tre"]
+}, 
+{
+        "tag": "Quần đảo Hoàng Sa và Trường Sa",
+        "patterns": ["2 quần đảo ngoài biển đông của Việt Nam tên gì vậy","Việt Nam có 2 quần đảo là gì vậy"]
+},
+{
+        "tag": "Nằm ở Châu Á đấy",
+        "patterns": ["Việt Nam nằm ở châu lục nào vậy -"]
+},
+{
+        "tag": "Có 63 tỉnh nhé",
+        "patterns": ["Nước bạn có bao nhiêu tỉnh"]
+},
+{
+        "tag": "Mình đang ở Ninh Thuận đấy cậu",
+        "patterns": ["Bạn đang ở tỉnh nào"]
+},  
+{
+        "tag": "À vẫn tạm ổn, tao tin vào chính phủ vào đội ngũ bác sĩ",
+        "patterns": ["Dịch ở Sài Gòn bây giờ sao rồi","mày ở ngoài đó có ổn không"]
+}, 
+{
+        "tag": "Đương nhiên Hoàng Sa và Trường Sa là của tổ quốc Việt Nam chúng ta rồi",
+        "patterns": ["Bạn có biết Hoàng Sa và Trường Sa là của ai không"]
+},
+{
+        "tag": "Ở Tây Ninh của mình nổi tiếng nhất là muối và bánh tráng",
+        "patterns": ["Tây Ninh của bạn có đặc sản là gì vậy","ở Tây Ninh có gì nổi tiếng nhất thế"]
+},
+{
+        "tag": "Quốc hoa của mình là Hoa Sen nha",
+        "patterns": ["Bạn có biết quốc hoa của nước Việt Nam mình là gì không"]
+},
+{
+        "tag": "Nơi mình sống có các danh lam thắng cảnh như: Tràm chim, Lăng cụ Phó Bản Nguyễn Sinh Sắc, Tháp Mười",
+        "patterns": ["Nơi bạn sống có những danh lam thắng cảnh nào","chỗ bạn có thể đi tham quan ở đâu"]
+},
+{
+        "tag": "À mình vẫn chưa có cơ hội.Nhưng nghe nói rất đẹp",
+        "patterns": ["Bạn đã đi Quy Nhơn bao giờ chưa"]
+},
+{
+        "tag": "Waooo.Nếu vậy thì thật tuyệt vời",
+        "patterns": ["Um.Hy vọng hè này bạn có thể đi cùng mình về Quy Nhơn.Mình nghĩ sẽ rất thú vị đấy"]
+},
+{
+        "tag": "Dĩ nhiên rồi.Thật tuyệt vời nếu có thể",
+        "patterns": ["Umm.Mình cũng có những dịp đi đến miền Tây nhưng vẫn bỏ lỡ cơ hội được ghé thăm Đồng Tháp.Hy vọng lần tới mình sẽ được đi cùng bạn","bạn có thể dẫn mình đi tham quan quê của bạn được không"]
+},  
+{
+        "tag": "Không đâu, ở đây nhậu rẻ lắm",
+        "patterns": ["Chi phí có đắt lắm không","nhậu ở quê bạn có đắt không"]
+},{
+        "tag": "mình phải đi tầm 900km",
+        "patterns": ["bạn về đó bao xa vậy"]
+},
+{
+        "tag": "mình đi xe tầm 15 tiếng đồng hồ",
+        "patterns": ["bạn đi mất bao lâu vậy","từ chỗ bạn đi xe khoảng bao lâu"]
+},   
+{
+        "tag": "ừm, có cả biển nữa",
+        "patterns": ["vậy chắc đồng ruộng nhiều đúng không"]
+},
+{
+        "tag": "ăn ngập mặt",
+        "patterns": ["có hải sản nhiều không","được thì nhẫn mình đi ăn hải sản nhé"]
+},
+{
+        "tag": "Cảm giác học hỏi những cái mới, năng động hơn",
+        "patterns": ["Điều cậu thích ở thành phố là gì","tại sao cậu lại muốn ra thành phố hơn là ở quê","cậu mong muốn gì khi ra thành phố"]
+},
+{
+        "tag": "Tớ từng đi du lịch Phan Thiết và Đà Lạt",
+        "patterns": ["Cậu đã đi du lịch ở đâu Việt Nam chưa"]
+},
+{
+        "tag": "Không khí mát mẻ và yên tĩnh",
+        "patterns": ["Trải nghiệm ở Đà Lạt như thế nào vậy","thứ gì cậu thích nhất ở Đà Lạt"]
+},
+{
+        "tag": "Có cái nóng của thành phố biển",
+        "patterns": ["Trải nghiệm ở Phan Thiết như nào vậy","không khí ở Phan Thiết nó như thế nào"]
+},
+{
+        "tag": "yes. My country is VietNam",
+        "patterns": ["do you answer me about your country"]
+},
+{
+        "tag": "là một người con Việt Nam tôi luôn tự hào về đất nước mình",
+        "patterns": ["này anh bạn có thấy đất nước mình thật đẹp không"]
+},
+{
+        "tag": "Việt Nam Hồ Chí Minh, như có bác Hồ trong ngày vui đại thắng",
+        "patterns": ["Việt Nam vô địch,Việt Nam vô địch"]
+},
+{
+        "tag": "Mình thuê khoảng 3 tr một tháng",
+        "patterns": ["Bạn thuê trọ bao nhiêu tiền"]
+},
+{
+        "tag": "Nhà mình có 7 người",
+        "patterns": ["Nhà bạn có bao nhiêu người vậy"]
+},
+{
+        "tag": "Giá hơi mắc nên mình đã chuyển đi rồi đó bạn, 5 triệu 1 tháng, nhưng không đáng với giá tiền đó",
+        "patterns": ["Bạn ơi cho t hỏi chỗ trọ lúc trước bạn ở giá cả như thế nào vậy"]
+},
+{
+        "tag": "À mình chuyển trọ để gần nơi đi làm, ở quận 7 đường huỳnh tấn phát á bạn",
+        "patterns": ["Bạn ơi, lúc trước mình có nghe bạn kể rằng bạn vừa mới chuyển trọ ấy, không biết chỗ trọ mới của bạn ở đâu thế"]
+},
+{
+        "tag": "Để cho việc tìm trọ thuận lợi thì mình khuyên bạn nên lên facebookk tìm những bài post, hoặc google để search các nhà trọ, có ảnh, địa chỉ rõ ràng, nhưng bạn phải cẩn thận khi lại ký hợp đồng, nhớ đọc kỹ vì dạo này lừa tiền cọc trên sài gòn rất phổ biến",
+        "patterns": ["Bạn ơi chỗ ở cũ của mình giá cao quá không biết xoay sở như nào nên đành phải chuyển trọ, bạn có biết phòng trọ cho thuê giá rẻ nào ở sài gòn mình không"]
+},
+{
+        "tag": "Mình hơi khó tính nên ở 1 mình, mình cảm thấy bình thường, không vui cũng không buồn, bất tiện thì không có",
+        "patterns": ["Hiện tại bạn đang ở trọ chung với ai vậy, có vui không chứ tui thấy ở một mình có hơi bất tiện"]
+},
+{
+        "tag": "không, mình ở nhà trọ với một số người bạn của mình",
+        "patterns": ["bạn ở nhà trọ một mình à"]
+},
+{
+        "tag": "đôi lúc mình cũng nhớ nhà lắm",
+        "patterns": ["bạn ở nhà trọ vậy có nhớ nhà không"]
+},
+{
+        "tag": "không, mình thường với bạn ra ngoài ăn",
+        "patterns": ["bạn có hay nấu ăn ở phòng trọ không"]
+},
+{
+        "tag": "cũng không mắc lắm vì tụi mình chia sẻ tiền nhà với nhau mà",
+        "patterns": ["bạn thuê nhà trọ như vậy có mắc không"]
+},
+{
+        "tag": "nhà trọ mình cũng khá là gần trường",
+        "patterns": ["nhà trọ bạn thuê có gần trường không"]
+},  
+{
+        "tag": "Bạn cùng phòng của mình cũng vui tính",
+        "patterns": ["Bạn cùng phòng của bạn tính tình như thế nào"]
+},
+{
+        "tag": "Nơi mình ở cách chợ 2 km",
+        "patterns": ["Nơi bạn ở có gần chợ không"]
+}, 
+{
+        "tag": "Mình cảm thấy rất vui khi ở đó",
+        "patterns": ["Bạn thích sống ở đó không"]
+},
+{
+        "tag": "Bạn có thể ghé qua phòng mình chơi vào những lúc rãnh",
+        "patterns": ["Mình có thể ghé chơi vào những lúc rãnh không"]
+},
+{
+        "tag": "Không gian có cửa sổ thoáng mát nên rất thoải mái",
+        "patterns": ["Không gian phòng bạn có thoải mái không"]
+},
+{
+        "tag": "Tớ hiện tại đang ở nhà riêng",
+        "patterns": ["Hiện tại cậu đang ở đâu vậy", "ở thuê hay ở nhà riêng"]
+},
+{
+        "tag": "Phòng ốc nhà tôi Không rộng rãi lắm",
+        "patterns": ["Phòng ốc nhà cậu rộng rãi không"]
+},
+{
+        "tag": "Phòng riêng của tôi có máy lạnh",
+        "patterns": ["Phòng riêng của anh có máy lạnh không"]
+}, 
+{
+        "tag": "Nhà tôi có trống cho thêm người vào ở",
+        "patterns": ["Không biết chỗ cậu có trống để thêm người vào ở không","tôi đang kiếm trọ, chỗ cậu có còn trống không"]
+},
+{
+        "tag": "Ở đây thích lắm cậu ạ, thích làm gì thì làm",
+        "patterns": ["Phòng ở thoải mái chứ","ở đây có bị gò bó gì không"]
+},
+{
+        "tag": "Tầm 1 triệu rưỡi đổ lại thôi, rất thích hợp cho sinh viên nghèo haha",
+        "patterns": ["Giá cả như nào, có đắt lắm không","phòng trọ ở đây có phù hợp với sinh viên nghèo như tui không"]
+},
+{
+        "tag": "Phòng rộng đủ để ngủ, nấu ăn với sinh hoạt nè",
+        "patterns": ["Nghe thích đấy, thế diện tích phòng như nào mà thoải mái"]
+}, 
+{
+        "tag": "Thoải mái phơi đỗ, rất nhanh khô và có chỗ để xe cho mỗi người nhé",
+        "patterns": ["Ở đó có chỗ phơi đỗ hay để xe gì không"]
+},
+{
+        "tag": "Dĩ nhiên. Khi nào tới bao trước với mình một câu là được",
+        "patterns": ["Được quá. Khi nào mình rãnh sang tham quan phòng được chứ"]
+},  
+{
+        "tag": "có, tao ở trọ gần tuyến xe bus luôn, đi bộ khoảng 200m",
+        "patterns": ["ở trọ nhà bè có tuyến xe bus nào đến trường không"]
+}, 
+{
+        "tag": "tầm 40k đổ xuống, xem khuyến mãi từng app thì ít hơn nhiều",
+        "patterns": ["bắt grab từ nhà bè lên trường mình là bao nhiêu thế"]
+},  
+{
+        "tag": "siêu thị thì không có nhưng có 2 cửa hàng tiện lợi ở đây",
+        "patterns": ["gần nơi bạn ở có siêu thị gì không"]
+},
+{
+        "tag": "gần lắm bạn, chỉ cần 5 phút đi bộ là tới à",
+        "patterns": ["nơi bạn ở trọ có gần trạm xe buýt không"]
+},
+{
+        "tag": "theo mình nghĩ thì lợi ích lớn nhất là tiết kiệm thời gian",
+        "patterns": ["theo bạn thì có những lợi ích nào khi sống ở gần trường"]
+},
+{
+        "tag": "được ở ghép nhưng tối đa chỉ có 3 người thôi bạn",
+        "patterns": ["nơi bạn ở trọ có được ở ghép không vậy"]
+},
+{
+        "tag": "mình đang thuê bên chỗ quận 7",
+        "patterns": ["bạn đang thuê nhà ở bên nào thế"]
+}, 
+{
+        "tag": "bên mình an ninh an toàn lắm",
+        "patterns": ["chỗ bạn trọ an ninh có tốt không"]
+},   
+{
+        "tag": "không quá xa trường Nông LâmU",
+        "patterns": ["và nơi ở có tiện cho mình đi học không"]
+},
+{
+        "tag": "giá cả ưa đãi cho sinh viên",
+        "patterns": ["cho mình hỏi giá cả thuê phòng như nào"]
+}, 
+{
+        "tag": "nơi thoáng mát yên tĩnh",
+        "patterns": ["cho mình hỏi nơi đó có yên tĩnh không"]
+}, 
+{
+        "tag": "phòng mình ở 800k bạn nhé",
+        "patterns": ["không biết giá phòng mình bao nhiêu vậy ạ"]
+},
+{
+        "tag": "có bạn nhé",
+        "patterns": ["chỗ mình ở có wifi không thế bạn"]
+},  
+{
+        "tag": "mình ở trọ một mình",
+        "patterns": ["bạn ở trọ chung với ai vậy"]
+}, 
+{
+        "tag": "Đúng rồi mình cũng học với bạn",
+        "patterns": ["Bạn học cùng lớp với mình phải không"]
+},
+{
+        "tag": "Mình cũng đang có ý định đó mà chưa biết giá cả sao nữa",
+        "patterns": ["Không phải là rất xa so với trường sao,bạn có muốn ở trọ ngoài không"]
+},
+{
+        "tag": "Ồ để mình suy nghĩ thêm, nhưng mà tầm giá đó ổn với mình đó",
+        "patterns": ["Bạn có muốn ở ghép với mình không   Chi phí mỗi tháng là 5tr chia đôi là mỗi người 2tr5"]
+},
+{
+        "tag": "Được rồi mình sẽ liên lạc lại nhanh nhất có thể",
+        "patterns": ["Vậy khi nào bạn có quyết định liên lạc với mình theo số này nhé"]
+},
+{
+        "tag": "Trải nghiệm của mình là mình ký hợp đồng với chủ nhà và đặt cọc, nhớ chú ý các điều khoản trong hợp đồng tránh rắc rối nhé",
+        "patterns": ["Bạn thuê nhà như thế nào thế"]
+},   
+{
+        "tag": "mình sống cùng ba mẹ và một em gái",
+        "patterns": ["bạn sống cũng với ai"]
+}, 
+{
+        "tag": "gần nhà mình có trung tâm mua sắm với đầy đủ các điểm vui chơi, giải trí",
+        "patterns": ["gần nhà bạn có gì thú vị không"]
+}, 
+{
+        "tag": "Mình Đã đi tham quan rồi , nơi đó rất đẹp , lại gần công viên gia định nữa",
+        "patterns": ["Hùng Đã đi xem phòng ở nơi đó chưa"]
+}, 
+{
+        "tag": "khu mình sống rất an ninh, yên tĩnh , không có các tiêu cực tệ nạn xã hội",
+        "patterns": ["Khu bạn sống có an ninh và trật tự không"]
+},
+{
+        "tag": "Mỗi phòng đều có toilet riêng và được dọn dẹp sạch sẽ bởi các cô lao công",
+        "patterns": ["Phòng bạn thuê vệ sinh chung hay riêng , có sạch không"]
+},
+{
+        "tag": "mình làm cho công ty nên công ty lo chỗ ở cho mình nên mình không cần phải lo chỗ ở",
+        "patterns": ["thế bạn ở với ai  bạn ở thuê hay sao vậy"]
+},
+{
+        "tag": "hiện tại mình ở chung với đồng nghiệp, may mắn thay đồng nghiệp của mình cũng đồng thời là bạn của mình",
+        "patterns": ["bạn ở chung với bạn hay là đồng nghiệp"]
+},
+{
+        "tag": "Phú Giáo, Bình Dương",
+        "patterns": ["nơi ở của bạn ở đâu vậy","Quê mày ở đâu","Mày ở đâu","nhà mày ở đâu"]
+},  
+{
+        "tag": "đặt trước 1 tháng là được rồi",
+        "patterns": ["vậy mình đặt cọc trước bao nhiêu vậy"]
+},  
+{
+        "tag": "Mình ở chung cư",
+        "patterns": ["Bạn ở chung cư hay ở nhà trọ sinh viên"]
+},
+{
+        "tag": "Rất an ninh",
+        "patterns": ["Chung cư hay nhà trọ của bạn ở có an ninh không"]
+}, 
+{
+        "tag": "hiện tại mình ở một mình nhé",
+        "patterns": ["phòng bạn ở bao nhiêu người"]
+},
+{
+        "tag": "có rất nhiều tiện nghi cơ bản như các cửa hàng tiện lợi, hồ bơi, phòng tập gym",
+        "patterns": ["xung quanh đó có tiện nghi gì không"]
+}, 
+{
+        "tag": "phòng này mình cho thuê cọc một tháng nha bạn",
+        "patterns": ["cho mình hỏi là phòng này đặt cọc trước bao nhiêu ạ"]
+},  
+{
+        "tag": "bà chủ trọ thì khó dụ giờ giấc lắm, 11h bả đóng cửa rồi, mà nếu mày nói bả đi làm thì lúc làm về chịu khó gọi điện kêu bả xuống mở cửa",
+        "patterns": ["vậy để tao rủ thêm nhỏ bạn nữa qua ở chung khu với mày, à cho tao hỏi giờ giấc sao"]
+},
+{
+        "tag": "tao thấy bả không dễ cũng không khó, mày muốn dắt bạn về qua đêm thì phải nói cho bà chủ biết",
+        "patterns": ["bà chủ mày có dễ tính không"]
+},  
+{
+        "tag": "Mình ở với bạn học của mình",
+        "patterns": ["Bạn ở với ai tại đấy"]
+}, 
+{
+        "tag": "mức giá thấp nhất mình từng biết là từ 1,5 triệu đến cao nhất 5 triệu tùy phòng lớn hay nhỏ, ở nhiều người hay ít người, ở càng nhiều người giá càng thấp",
+        "patterns": ["mình nên thuê nhà có giá dao động từ bao nhiêu"]
+}, 
+{
+        "tag": "bạn có thể tìm đến tiệm net xung quanh trường nếu thích chơi game. Hồ Đá làng đại học nếu thích mua sắm và vui chơi tổng hợp",
+        "patterns": ["có những nơi giải trí vui chơi nào khi học ở Đại học Nông Lâm TPHCM"]
+},
+{
+        "tag": "mình nghĩ nơi lí tưởng nhất để đọc sách là thư viện trường vì ở đó yên tĩnh tuyệt đối, không gian rộng rãi có bàn ghế luôn sẵn sàng phục vụ",
+        "patterns": ["mình có thể tìm đến nơi nào để đọc sách"]
+},
+{
+        "tag": "cậu cần lưu ý khi ra cổng 3 nhớ cẩn thận tư trang và điện thoại di động vì hay có móc túi. Không được xả rác bừa bãi. Gặp người lớn và giáo viên trong trường phải gật đầu chào hỏi",
+        "patterns": ["mình có cần lưu ý gì khi học ở Đại học Nông Lâm TPHCM không"]
+},
+{
+        "tag": "mình định thuê ở gần trường",
+        "patterns": ["bạn định thuê nhà ở đâu","bạn muốn trọ của mình ở đâu"]
+},
+{
+        "tag": "đa số các chủ nhà đều hiểu hoàn cảnh sinh viên nên giảm giá nhiều lắm",
+        "patterns": ["nhà gần trường giá cả có hợp lý cho sinh viên không bạn nhỉ","chủ trọ có giảm giá cho sinh viên thuê không nhỉ"]
+}, 
+{
+        "tag": "có, có lotte mart với vivo gần đó lắm",
+        "patterns": ["gần chỗ bạn ở có siêu thị hay chợ gì không","nếu cần mua đồ thì mình có thể đi mua ở đâu gần nhà nhỉ"]
+},
+{
+        "tag": "tiện thì tiện nhưng vì gần nên hay chủ quan xong đi học trễ ấy",
+        "patterns": ["ở gần trường thì chắc đi học cũng tiện nhỉ"]
+},  
+{
+        "tag": "Theo mình bạn nên chọn ở ký túc xá của đại học quốc gia hoặc bạn có thể ở ký túc xá của trường",
+        "patterns": ["Mình học ở trường Đại học  Nông Lâm TPHCM thì mình nên chọn trọ ở đâu"]
+},
+{
+        "tag": "Nhà mình thuê có điều hoà, bếp ga, máy giặt đầy đủ",
+        "patterns": ["Nhà bạn thuê có tiện ích gì không","nhà thuê cần chuẩn bị thêm đồ gì không"]
+},
+{
+        "tag": "Nhà trọ mình cách trung tâm thành phố khá xa",
+        "patterns": ["Nhà trọ của bạn có gần trung tâm thành phố không","muốn ra trung tâm thành phố có xa không"]
+},
+{
+        "tag": "gần nhà mình có một số quan ăn nhưng cũng không ngon lắm, ăn được thôi",
+        "patterns": ["Gần nhà bạn có nhiều quán ăn ngon không"]
+},
+{
+        "tag": "em đăng ký theo form để xét ở kí túc xá nhé",
+        "patterns": ["em có thể ở kí túc xá được không ạ","muốn đăng kí ktx thì đăng kí như thế nào ạ"]
+},
+{
+        "tag": "em tuân thủ theo nội quy kí túc xá và tham gia hoạt động thể dục để xét ở lại kí túc xá nhé",
+        "patterns": ["em muốn ở lâu tại kí túc xá thì làm thế nào ạ"]
+},
+{
+        "tag": "kí túc xá gửi xe theo học kì, em đăng ký và đóng tiền đầy đủ nhé",
+        "patterns": ["kí túc xá có gửi xe không ạ","em muốn gửi xe theo tháng để tiết kiệm được không ạ"]
+},
+{
+        "tag": "đến trường mất tầm 10 phút đi xe",
+        "patterns": ["thời gian từ nhà đến trường mất bao lâu","từ nhà tới trường có xa không"]
+}, 
+{
+        "tag": "trường có đăng ký vé theo tháng em nhé",
+        "patterns": ["trường có vé xe buýt hỗ trợ sinh viên không ạ"]
+},
+{
+        "tag": "Không có gì đâu",
+        "patterns": ["Cảm ơn mày nha","Cảm ơn nha","Cảm ơn"]
+},
+{
+        "tag": "Mình ở trọ",
+        "patterns": ["Bạn ở Ký túc xá hay ở trọ vậy","bạn có ở ktx không","bạn ở trọ hay ở chung cư mini"]
+},
+{
+        "tag": "Minh ở trọ khu B của làng Đại học",
+        "patterns": ["Bạn ở trọ khu nào vậy","bạn ở trọ đoạn nào"]
+},    
+{
+        "tag": "Mình cũng không biết hay bạn thử search google đi",
+        "patterns": ["Có chỗ nào giá cả hợp lý mà gần trung tâm không"]
+},
+{
+        "tag": "Mình thấy bạn nên ở ngoài sẽ tiện hơn vì không bị gò bó thời gian, có thể đi làm thêm ở bên ngoài",
+        "patterns": ["Mọi người cho em hỏi em nên ở kí túc xá hay ở trọ bên ngoài sẽ tiện hơn ạ"]
+}, h bao nhiêu một tháng vậy cô"]
+},
+{
+        "tag": "Chỗ tôi có 4 người rồi",
+        "patterns": ["Chỗ ông ở có mấy người rồi"]
+},  
+{
+        "tag": "An ninh lắm nên cứ yên tâm",
+        "patterns": ["Chỗ này có an ninh không"]
+}, 
+{
+        "tag": "Mình cảm thấy thoải mái, nhà trọ có đầy đủ tiện nghi và hàng xóm cũng khá hiền",
+        "patterns": ["Cảm giác của bạn về chỗ ở trọ như thế nào"]
+},  
+{
+        "tag": "Căn nhà này an ninh rất tốt nhé bạn",
+        "patterns": ["Cho mình hỏi về an ninh của căn nhà này ạ","nhà này có hay bị mất trộm không","ở đây có bảo vệ hay gì để đảm bảo an ninh không"]
+},
+{
+        "tag": "Chủ nhà này rất hiền bạn nhé",
+        "patterns": ["Cho mình hỏi chủ nhà có khó không ạ","chủ nhà có làm khó sinh viên không ạ"]
+},
+{
+        "tag": "Đường từ ngồi nhà này đến trường Nông Lâm chỉ có 1km thôi bạn nhé",
+        "patterns": ["Ngôi nhà này có tiện đường đi đến trường Nông Lâm không ạ","học Nông Lâm thì đi có xa không ạ"]
+},
+{
+        "tag": "Xung quanh đây có rất nhiều siêu thị bạn nhé",
+        "patterns": ["Cho mình hỏi gần khu vực này có siêu thị không ạ","em hay mua đồ nên quanh đây có siêu thị hay ]
+},
+{
+        "tag": "Tớ đang ở thành phố Hồ Chí Minh",
+        "patterns": ["Bạn hiện tại đang ở đâu","bạn đang ở đâu"]
+},    
+{
+        "tag": "mình chưa có đo",
+        "patterns": ["nhà bạn dài bao nhiêu mét", "nhà bạn rộng bao nhiêu mét", "nhà bạn diện tích bao nhiêu mét vuông"]
+},
+{
+        "tag": "không mình ở trong hẻm",
+        "patterns": ["nhà bạn có nằm ở mặt tiền đường lớn không","nhà bạn có gần đường lớn không"]
+}, 
+{
+        "tag": "mình cũng không thường xuyên dọn lắm",
+        "patterns": ["bạn có hay dọn dẹp nhà cửa không","bạn có hay vệ sinh lau dọn đồ đạc không","bạn có thường xuyên dọn góc làm việc của mình không"]
+},
+{
+        "tag": "không, nhà mình nghèo lắm",
+        "patterns": ["nhà bạn có chỗ đậu ô tô không","nhà bạn có lớn không","nhà bạn có nhiều tầng không"]
+}, 

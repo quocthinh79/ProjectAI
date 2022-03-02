@@ -1,0 +1,24 @@
+{
+    "intents": [
+        {
+            "patterns": ["Thích đánh lộn không?"],
+            "tag": "Ngon nhào vô"
+        },
+        {
+            "patterns": ["Mai học ca mấy vậy"],
+            "tag": "Mai học ca 3"
+        },
+        {
+            "patterns": ["bạn có biết tên của bài quốc ca nước mình không?"],
+            "tag": "có chứ, tên là tiến quân ca"
+        },
+        {
+            "patterns": ["Trí tuệ nhân tạo là gì"],
+            "tag": "Là trí tuệ nhân tạo"
+        },
+        {
+            "patterns": ["có người yêu chưa"],
+            "tag": "chưa"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+Học có giám sát
+
+TFLearn là một thư viện mô-đun trong Python được xây dựng trên TensorFlow cốt lõi.
+3. Tính chất của hàm Softmax
+Từ định nghĩa về hàm softmax, chúng ta có thể đoán được tính chất của nó. Dưới đây là một vài tính chất của hàm softmax:
+
+Xác suất sẽ luôn nằm trong khoảng (0:1].
+Tổng tất cả các xác suất bằng 1.
+4. Lợi ích của Softmax Function
+Hàm softmax là tối ưu khi tính toán xác suất tối đa trong tham số mô hình.
+Tính chất của hàm softmax khiến hàm phù hợp với sự thông dịch xác suất, rất hữu ích trong Machine Learning (Học máy).
+Chuẩn hóa softmax là một cách để giảm thiểu ảnh hưởng của những giá trị cực trị hay dữ liệu ngoại lai trong dữ liệu mà không phải chỉnh sửa dữ liệu ban đầu. 
+
+Optimizer là: Tìm 1 cặp weights và bias phù hợp để tối ưu hóa model. Nhưng vấn đề là "học" như thế nào? Cụ thể là weights và bias được tìm như thế nào! Đâu phải chỉ cần random (weights, bias) 1 số lần hữu hạn và hy vọng ở 1 bước nào đó ta có thể tìm được lời giải. Rõ ràng là không khả thi và lãng phí tài nguyên! Chúng ta phải tìm 1 thuật toán để cải thiện weight và bias theo từng bước, và đó là lý do các thuật toán optimizer ra đời.
+
+Adam là sự kết hợp của Momentum và RMSprop . Adam như 1 quả cầu rất nặng có ma sát, vì vậy nó dễ dàng vượt qua local minimum tới global minimum và khi tới global minimum nó không mất nhiều thời gian dao động qua lại quanh đích vì nó có ma sát nên dễ dừng lại hơn.
+
+Các lợi ích của thuật toán Adam
+Không khó khăn để implement
+Độ phức tạp hiệu quả
+Ít bộ nhớ yêu cầu.
+Thích hợp với các bài toán có độ biến thiên không ổn định và dữ liệu traning phân mảnh.
+Các siêu tham số được biến thiên một cách hiệu quả và yêu cầu ít điều chỉnh
+
+one-hot-vector: đầu ra là '0' cho mỗi thẻ và '1' cho thẻ hiện tại, độ dài của one-hot-vector sẽ bằng số lượng từ trong một từ điển
+
+Có 2 cách để train model skip-gram (Ngẫu nhiên một từ là đầu vào)
+bag of word (Những từ xung quanh là đầu vào)
+
+Embedding là một kỹ thuật đưa một vector có số chiều lớn, thường ở dạng thưa, về một vector có số chiều nhỏ, thường ở dạng dày đặc.
+Ma trận embedding có thể coi là một ma trận trọng số trong một mạng neural nhân tạo.
+ma trận này cũng có thể được xây dựng bằng cách đặt nó vào một mạng neural với một hàm mất mát nào đó.
+
+Embedding có thể hiểu là ẩn, gắn vào. Chính cái tên của nó cũng giúp bạn mường tượng được rằng bạn sẽ phải ẩn dữ liệu ban đầu dưới dạng một không gian vectơ số mới, cho nên huấn luyện mô hình trên không gian vectơ số này cũng chính là bạn đang gián tiếp học trên tập dữ liệu ban đầu.
+
+hàm enumerate() cho phép bạn truy nhập vòng lặp lần lượt qua các thành phần của một collection trong khi nó vẫn giữ index của item hiện tại.
+
+Loss function hay còn gọi là hàm mất mát, thể hiện một mối quan hệ giữa y* (là kết quả dự đoán của model) và y (là giá trị thực tế). Ví dụ ta có hàm loss như sau: f(y) = (y* - y)^2. Khi đó người ta đưa vào hàm loss function này mục đích là để tối ưu model của mình sao cho tốt nhất, hay cũng dùng để đánh giá độ tốt của model , y* (là kết quả dự đoán của model) càng gần y (là giá trị thực tế) thì càng tốt. Tức là dựa vào loss function, khi đó chúng ta có thể tính ra gradient descent để tối ưu loss function càng về gần 0 càng tốt. (Hiện tại mình chỉ trình bày vậy cho các bạn dễ hiểu, còn mục sau mình sẽ trình bày rõ hơn về LAN TRUYỀN NGƯỢC để các bạn hiểu rõ nhất).
+
+TFLearn: Thư viện deep learning có API cấp cao hơn cho TensorFlow.
+
+Weight & Bias sẽ được tự khởi tạo ngẫu nhiên
+
+Epoch: 1 epoch là một lần duyệt qua hết các dữ liệu trong tập huấn luyện
+Iterations: số lượng các Batch size mà mô hình phải duyệt trong 1 epoch.
+Batᴄh Siᴢe: ᴄhúng ta không thể đưa hết toàn bộ dữ liệu ᴠào huấn luуện trong 1 epoᴄh, ᴠì ᴠậу ᴄhúng ta ᴄần phải ᴄhia tập dữ liệu thành ᴄáᴄ phần (number of batᴄh), mỗi phần ᴄó kíᴄh thướᴄ là batᴄh ѕiᴢe.
+

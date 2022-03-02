@@ -1,0 +1,528 @@
+{
+        "tag": "mình rất vui và phấn chấn khi được làm việc ở đây",
+        "patterns": ["cảm xúc của bạn như thế nào khi được nhận vào làm việc"]
+},
+{
+        "tag": "đồng nghiệp rất hòa đồng và tốt bụng",
+        "patterns": ["đồng nghiệp của bạn ở công ty như thế nào"]
+},
+{
+        "tag": "sếp làm việc rất chuyên nghiệp và rất vui tính",
+        "patterns": ["sếp của bạn như thế nào"]
+},
+{
+        "tag": "tôi rất thích môi trường làm việc này",
+        "patterns": ["bạn có thích môi trường làm việc này không"]
+},
+{
+        "tag": "mình định theo hướng phát triễn website",
+        "patterns": ["bạn có định hướng trong tương lai như thế nào"]
+},
+{
+        "tag": "tớ cảm thấy đồng nghiệp của mình vui tính và hoà đồng",
+        "patterns": ["bạn cho mình hỏi bạn cảm thấy như thế nào về đồng nghiệp của mình"]
+},
+{
+        "tag": "tớ không thường đem công việc về làm",
+        "patterns": ["bạn cho mình hỏi bạn có thường đem công việc về nhà làm không"]
+},
+{
+        "tag": "ở nơi làm mọi người có hay họp để giải quyết vấn đề",
+        "patterns": ["bạn cho mình hỏi ở nơi làm mọi người có hay họp để giải quyết vấn đề hay không"]
+},
+{
+        "tag": "Còn anh",
+        "patterns": ["Còn đi làm ở công ty cũ"]
+},
+{
+        "tag": "anh cũng không biết nhưng chỉ biết trông mong thôi em à",
+        "patterns": ["không biết khi nào mới hết dịch để mình được đi làm lại anh ha"]
+},
+{
+        "tag": "Mình đang làm bên mảng IT",
+        "patterns": ["Bạn đang làm về công việc gì"]
+},
+{
+        "tag": "Mình rất vui vì được nhận vào làm",
+        "patterns": ["Cảm xúc của bạn như thế nào khi được nhận vào làm"]
+},
+{
+        "tag": "Mình đang đi làm công ty thôi",
+        "patterns": ["Dạo này cậu đang làm gì thế"]
+},
+{
+        "tag": "công việc ổn định cũng tốt lắm",
+        "patterns": ["Công việc thế nào có ổn định không"]
+},
+{
+        "tag": "vui lắm cậu, đồng nghiệp thoải mái hòa đồng lắm",
+        "patterns": ["Đi làm có vui không, đồng nghiệp thoải mái không"]
+},
+{
+        "tag": "tớ làm ngày 8 tiếng, đôi ngày có tăng ca thêm 4 tiếng",
+        "patterns": ["Ngày bình thường làm mấy tiếng, có tăng ca không"]
+},
+{
+        "tag": "cũng có một chút, đôi khi deadline đến quá nhanh khiến mình không kịp thích ứng",
+        "patterns": ["áp lực có ảnh hưởng gì đến công việc của bạn không"]
+},
+{
+        "tag": "Thường xuyên tiếp xúc nhiều người",
+        "patterns": ["môi trường làm việc của bạn như thế nào"]
+},
+{
+        "tag": "Có chớ",
+        "patterns": ["bạn có hài lòng về mức lương hiện tại không"]
+},
+{
+        "tag": "mình có đang đi làm đi vào mỗi tối khuya muộn",
+        "patterns": ["bạn có đang đi làm thêm không"]
+},
+{
+        "tag": "nụ cười luôn ở trên môi, nhưng tôi chưa bao giờ ổn",
+        "patterns": ["tình trạng công việc hiện tại như thế nào"]
+},
+{
+        "tag": "Mình đang làm Giảng viên đại học cho trường Đại học Nông Lâm TPHCM",
+        "patterns": ["Bạn đang làm gì"]
+},
+{
+        "tag": "Mình muốn trở thành nhà thơ hoặc họa sĩ",
+        "patterns": ["Bạn muốn làm nghề gì"]
+},
+{
+        "tag": "có nha bạn tôi",
+        "patterns": ["Bạn có người yêu chưa"]
+},
+{
+        "tag": "Cũng được , tới hài lòng",
+        "patterns": ["Bạn có thích công việc hiện tại không"]
+},
+{
+        "tag": "Rất ổn định nha",
+        "patterns": ["Công việc cậu ổn định không"]
+},
+{
+        "tag": "Công việc của mình khá là ổn đỉnh",
+        "patterns": ["Cho mình hỏi công việc bạn có ổn không"]
+},
+{
+        "tag": "Lương mình khá là nhiều số không và đặc biệt là không thấy",
+        "patterns": ["Cho mình hỏi lương bạn một tháng bao nhiêu"]
+},
+{
+        "tag": "Tao làm web",
+        "patterns": ["Mày làm về cái gì"]
+},
+{
+        "tag": "Cũng được đủ ăn đủ mặc",
+        "patterns": ["Lương ổn không"]
+},
+{
+        "tag": "Công ty tao không có hệ số lương",
+        "patterns": ["Hệ số lương của mày cao không"]
+},
+{
+        "tag": "Không, tao thích công ty đây",
+        "patterns": ["Mày muốn chuyển nghề không hay vẫn thích công ty đó"]
+},
+{
+        "tag": "Không biết nữa mỗi người mỗi khác, tao thì 6 tháng một lần",
+        "patterns": ["Công ty mày bao lâu thì tăng lương một lần"]
+},
+{
+        "tag": "Tao không biết nữa mày lên coi liên hệ phòng nhân sự thử",
+        "patterns": ["Công ty đó có còn đang tuyển không"]
+},
+{
+        "tag": "Mình muốn làm hacker",
+        "patterns": ["Trong tương lai bạn muốn làm nghề gì"]
+},
+{
+        "tag": "Tớ còn thích làm ca sĩ hoặc nghề nào đó liên quan đến nghệ thuật",
+        "patterns": ["Cậu còn thích nghề gì khác không"]
+},
+{
+        "tag": "Công việc của tớ khá ổn, rất thoải mái",
+        "patterns": ["Tình trạng công việc của cậu thế nào"]
+},
+{
+        "tag": "chinh phục mặt trời là định hướng cuối cùng của mình",
+        "patterns": ["cậu có định hướng gì trong tương lai không"]
+},
+{
+        "tag": "Mình muốn làm Dược sĩ",
+        "patterns": ["Bạn muốn mình sau này làm nghề gì"]
+},
+{
+        "tag": "Công việc ước mơ của bé sau này là làm phi công",
+        "patterns": ["Công việc mơ ước của bé sau này là gì"]
+},
+{
+        "tag": "Hiện tại công việc cháu không ảnh hưởng quá nhiều do được xếp làm việc online tại nhà",
+        "patterns": ["Công việc của cháu mùa dịch này bị ảnh hưởng thế nào"]
+},
+{
+        "tag": "Lập trình viên, kinh doanh, marketing",
+        "patterns": ["Nghề hot hiện nay, theo bạn là gì"]
+},
+{
+        "tag": "Tôi thích trở thành một nghệ sĩ chuyên nghiệp trong lĩnh vực âm nhạc",
+        "patterns": ["Bạn đang thích nghề gì"]
+},
+{
+        "tag": "tôi đã bị cho nghỉ việc vì không có việc làm",
+        "patterns": ["Chuyện gì đã xảy ra"]
+},
+{
+        "tag": "Mở quán coffee đó",
+        "patterns": ["Sau này bạn muốn làm gì"]
+},
+{
+        "tag": "Đam mê đó ông hehe",
+        "patterns": ["Sao bạn lại muốn mở quán cafe"]
+},
+{
+        "tag": "Mình đang đi học",
+        "patterns": ["Bạn đang đi học hay đã đi làm"]
+},
+{
+        "tag": "tôi đang làm lập trình viên",
+        "patterns": ["lâu rồi không gặp, bây giờ ông đang làm gì"]
+},
+{
+        "tag": "lương cũng khá ổn đó ông, khá cao so với mặt bằng chung",
+        "patterns": ["lương ổn không ông"]
+},
+{
+        "tag": "được thưởng tháng 13, nói chung là cũng được thưởng khá nhiều",
+        "patterns": ["chế độ đãi ngộ như nào ông"]
+},
+{
+        "tag": "tính đến nay thì cũng được ba năm rồi ông",
+        "patterns": ["ông làm được mấy năm rồi"]
+},
+{
+        "tag": "Mình đang là Lập trình Web tại công ty Vietnam",
+        "patterns": ["Hiện tại bạn đang làm nghề gì"]
+},
+{
+        "tag": "Minh làm tại công ty quốc tế DVS, tại chi nhánh HCM",
+        "patterns": ["Bạn làm tại đâu"]
+},
+{
+        "tag": "Đủ sống thôi bạn ạ",
+        "patterns": ["Không biết bên mình lương bổng như nào nhỉ"]
+},
+{
+        "tag": "Mình làm tại đây cách đây vài tháng mà cứ ngỡ là nhân viên lâu năm không à ^^",
+        "patterns": ["Môi trường làm việc tại đây có dễ thích nghi hay không"]
+},
+{
+        "tag": "Quá dễ luôn ấy chứ",
+        "patterns": ["Công ty mình có dễ hòa nhập không bạn nhỉ"]
+},
+{
+        "tag": "Mình đang làm BA - Business Analyst",
+        "patterns": ["Bạn làm công việc gì vậy"]
+},
+{
+        "tag": "Google đi bạn",
+        "patterns": ["BA là làm gì"]
+},
+{
+        "tag": "Cũng ok đang có nhiều dự án lắm.",
+        "patterns": ["Bạn thấy công ty ok không"]
+},
+{
+        "tag": "Mình đang làm việc cho công ty FPT",
+        "patterns": ["Bạn đang làm việc ở công ty nào"]
+},
+{
+        "tag": "mình không biết hát nhưng mình có thể giới thiệu một số bài hát hay cho bạn",
+        "patterns": ["bạn biết hát hay không"]
+},
+{
+        "tag": "kiến thức là vô tận mình vẫn còn cần phải học nhiều lắm",
+        "patterns": ["bạn biết gì về thế giới xung quanh"]
+},
+{
+        "tag": "Mình đang trả lời những câu hỏi của bạn",
+        "patterns": ["Bạn đang làm gì"]
+},
+{
+        "tag": "Mình biết di chuyển, làm việc nhà",
+        "patterns": ["Bạn còn biết làm những gì"]
+},
+{
+        "tag": "Cậu nên thôi bận tâm đến nó",
+        "patterns": ["Cậu có biết đêm qua tôi đã nằm mơ thấy gì không"]
+},
+{
+        "tag": "Có lẽ cậu cần một giấc ngủ ấm áp",
+        "patterns": ["Tôi đang có cảm giác không vui"]
+},
+{
+        "tag": "Một nồi lẩu có thể là ý hay",
+        "patterns": ["Hôm nay nhà tôi họp gia đình nhưng không biết nên ăn gì"]
+},
+{
+        "tag": "Tôi nghĩ cậu nên tra google",
+        "patterns": ["Bạn có biết trí tuệ nhân tạo là gì hay không"]
+},
+{
+        "tag": "Chào bạn, tôi chưa có thông tin gì về bạn",
+        "patterns": ["Biết tôi là ai không"]
+},
+{
+        "tag": "Kết quả cho câu hỏi của bạn là 6",
+        "patterns": ["Đố mày hai nhân ba bằng mấy"]
+},
+{
+        "tag": "tui không có tiền nên không bao được nha",
+        "patterns": ["bạn có thể bao tui một ly trà sữa không"]
+},
+{
+        "tag": "không nha, trà sữa không tốt cho sức khỏe, bạn nên ăn trái cây đi",
+        "patterns": ["bạn muốn uống trà sữa không"]
+},
+{
+        "tag": "không ai ướt cả",
+        "patterns": ["trời âm u, gió hù hù, có 3 người mù, chung một cây dù. Hỏi người nào ướt"]
+},
+{
+        "tag": "9 cái nhà",
+        "patterns": ["8 người sơn được 3 cái nhà trong 6 giờ. Hỏi với 12 người sẽ sơn được bao nhiêu cái nhà trong 12 giờ"]
+},
+{
+        "tag": "cổ tay phải",
+        "patterns": ["cái gì tay trái cầm được mà tay phải cầm không được"]
+},
+{
+        "tag": "cảm súc là khái niệm không thể định nghĩa với robot",
+        "patterns": ["mình muốn biết bạn hiểu cảm súc là gì"]
+},
+{
+        "tag": "mình có thể giải đáp thắc mắc của bạn",
+        "patterns": ["mình có thể hỏi bạn là có thể làm được gì"]
+},
+{
+        "tag": "Bài toán tám quân hậu có 12 lời giải khác nhau. Lời giải là: A7, B1, C3, D8, E6, F4, G2, H5",
+        "patterns": ["Bài toán tám quân hậu có bao nhiêu lời giải. Hãy cho tôi biết 1 lời giải trong số đó"]
+},
+{
+        "tag": "Cờ vua có 32 quân cờ bao gồm: Vua, Hậu, Xe, Tượng, Mã, Tốt",
+        "patterns": ["Cờ vua có bao nhiêu quân cờ, kể tên các quân cờ"]
+},
+{
+        "tag": "Bạn đang xếp vị trí thứ 2 vì bạn đang thay thế vị trí người xếp thứ 2",
+        "patterns": ["Trong một cuộc đua ngựa, bạn bị vượt mặt bởi người xếp vị trí thứ 2 thì bạn đang xếp vị trí thứ mấy"]
+},
+{
+        "tag": "Không vì 12h tối làm gì có nắng",
+        "patterns": ["Vào 12h tối trời mưa thì 72h sau thì trời có nắng không"]
+},
+{
+        "tag": "Mình biết tính toán cộng trừ nhân chia",
+        "patterns": ["Bạn có biết tính toán bằng những con số không"]
+},
+{
+        "tag": "ok , bạn cho đề đi mình sẽ cố gắng thực hiện các phép tính cho bạn",
+        "patterns": ["Vậy bạn thử làm một vài phép cộng cho mình nhé"]
+},
+{
+        "tag": "đáp án tổng cộng của bạn là 11 nhé . Bạn còn hỏi gì nữa không",
+        "patterns": ["một cộng hai cộng ba cộng bốn cộng năm bằng nhiêu"]
+},
+{
+        "tag": "Ôi tôi đã tính lại và kết quả không sai . Bạn xem kiểm tra lại xem",
+        "patterns": ["trả lời sai rồi nhé , đáp án là 15 chứ "]
+},
+{
+        "tag": "gió bắt đầu từ áp suất khí quyển. Khi một sự khác biệt trong áp suất khí quyển tồn tại, không khí di chuyển từ vùng có áp suất cao hơn đến các vùng áp suất thấp hơn, dẫn đến những cơn gió có tốc độ khác nhau",
+        "patterns": ["sóng bắt đầu từ gió, gió bắt đầu từ đâu"]
+},
+{
+        "tag": "Hình cầu",
+        "patterns": ["Trái đất có hình gì"]
+},
+{
+        "tag": "tớ được chế tạo ra với mục đích là hướng dẫn các bạn tân sinh viên và du khách tham quan trường Đại học  Nông Lâm TPHCM",
+        "patterns": ["bạn được chế tạo ra để phục vụ mục đích gì"]
+},
+{
+        "tag": "tớ có thể trả lời một cách chi tiết và trơn tru các câu hỏi về lịch sử trường, quá trình hình thành trường, thông tin các tòa nhà, nội quy, và nhiều mục khác nữa",
+        "patterns": ["bạn có thể làm gì"]
+},
+{
+        "tag": "Hỏi người qua đường hoặc cứ đi rồi sẽ tơi",
+        "patterns": ["Làm sao để tìm đường mà không cần google map"]
+},
+{
+        "tag": "Sau tết bạn sẽ có thêm mỡ bụng, mỡ mặt, mỡ toàn thân",
+        "patterns": ["Sau một kì nghỉ tết bạn sẽ có gì"]
+},
+{
+        "tag": "Minh ăn năn khi cảm thấy có lỗi",
+        "patterns": ["Bạn ăn gì khi cảm thấy có lỗi"]
+},
+{
+        "tag": "search google đi",
+        "patterns": ["thế giới quan duy vật là gì"]
+},
+{
+        "tag": "Đường thông thoáng, có thể có kẹt xe vào giờ cao điểm",
+        "patterns": ["Tình hình giao thông thành phố Hồ Chí Minh như thế nào"]
+},
+{
+        "tag": "số 25 không phải là số nguyên tố",
+        "patterns": ["25 có phải là số nguyên tố không"]
+},
+{
+        "tag": "nguyên nhân cơ bản khiến các hành tinh chuyển động theo quỹ đạo hay quay quanh mặt trời là do trọng lực của mặt trời 'giữ' các hành tinh trên quỹ đạo của chúng. Giống như mặt trăng quay quanh trái đất là nhờ sức kéo từ lực hấp dẫn của trái đất, thì trái đất quay quanh mặt trời nhờ sức kéo từ trọng lực của mặt trời",
+        "patterns": ["tại sao trái đất quay xung quanh mặt trời"]
+},
+{
+        "tag": "Elon Musk",
+        "patterns": ["ai là người giàu nhất thết giới"]
+},
+{
+        "tag": "kinh thánh",
+        "patterns": ["cuốn sách bán chạy nhất thế giới"]
+},
+{
+        "tag": "Hôm nay là ngày 5 tháng 2 năm 2020",
+        "patterns": ["Hôm nay là ngày bao nhiêu vậy"]
+},
+{
+        "tag": "Bạn hỏi điều ai cũng biết luôn á đó là mình đẹp trai hơn rồi, hihi",
+        "patterns": ["Robot ơi, mình với bạn ai đẹp trai hơn"]
+},
+{
+        "tag": "Có thể bạn chưa biết chứ tôi là em trai cùng cha khác ông nội của chị google",
+        "patterns": ["Bạn có họ hàng gì với chị google không hả robot"]
+},
+{
+        "tag": "Thảo cầm viên, công viên Tao Đàn, hồ con rùa,.",
+        "patterns": ["Robot tìm giúp tôi những địa điểm đẹp ở Sài Gòn"]
+},
+{
+        "tag": "Điểm khác nhau là mèo thì có 4 chân còn vịt có 2 chân bạn nhé",
+        "patterns": ["Cho mình hỏi mèo và vịt khác nhau ở điểm nào"]
+},
+{
+        "tag": "1 đô la mỹ bằng 23 nghìn việt nam nhé bạn",
+        "patterns": ["cho mình hỏi 1 đô la mỹ bằng bao nhiêu tiền việt nam vậy"]
+},
+{
+        "tag": "nhiệt độ ngoài trời hiện tại là 30 độ",
+        "patterns": ["Cho mình hỏi nhiệt độ ngoài trời hiện tại là bao nhiêu"]
+},
+{
+        "tag": "Mình cao 2 mét bạn nhé",
+        "patterns": ["Cho mình hỏi bạn cao bao nhiêu"]
+},
+{
+        "tag": "Mình là robot thông minh nhé",
+        "patterns": ["Cho mình hỏi bạn là ai vậy"]
+},
+{
+        "tag": "Tao chưa coi nữa xíu nữa về tao coi",
+        "patterns": ["Có cập nhật học phí rồi kìa, mày học kì này bao nhiêu"]
+},
+{
+        "tag": "Để tao coi thử chưa chắc nữa",
+        "patterns": ["Mai học xong đi chơi đi, lâu rồi chưa đi chơi bida, mày đi không"]
+},
+{
+        "tag": "mình cần mua một cái điện thoại mới",
+        "patterns": ["xin chào, mình có thể giúp gì cho bạn"]
+},
+{
+        "tag": "mình chưa biết, bạn có thể tư vấn mình không",
+        "patterns": ["bạn muốn một chiếc điện thoại như thế nào"]
+},
+{
+        "tag": "những chiếc điện thoại có giá 6 triệu trở lên sẽ được tặng kèm tai nghe",
+        "patterns": ["ở đây có chiếc điện thoại nào kèm tai nghe không"]
+},
+{
+        "tag": "tớ thích điện thoại samsung hơn",
+        "patterns": ["bạn cho mình hỏi bạn thích điện thoại iphone hay samsung hơn"]
+},
+{
+        "tag": "Điên hả",
+        "patterns": ["Mặc váy đi chơi được không"]
+},
+{
+        "tag": "Đang chạy deadline rồi",
+        "patterns": ["Rảnh không đi dạo chơi"]
+},
+{
+        "tag": "mình thích những thứ đẹp đẽ và thiên về màu sắc nhiều",
+        "patterns": ["bạn có khuynh hướng thích những mảng nào"]
+},
+{
+        "tag": "Sau những giờ học mệt mỏi, thường mình sẽ chơi game để giải tỏa căng thẳng",
+        "patterns": ["Khi rảnh bạn sẽ làm gì"]
+},
+{
+        "tag": "Mình có chơi một vài môn nhưng không nhiều lắm, đặt biệt mình thích chơi bóng",
+        "patterns": ["Bạn thích chơi thể thao không"]
+},
+{
+        "tag": "Không có luôn, còn đội bóng thì có chelsea nè",
+        "patterns": ["bạn có đặc biệt hâm mộ ai không", "Về đội bóng thì như  thế nào ?"]
+},
+{
+        "tag": "Mình thích thể lệ huyền huyễn nha",
+        "patterns": ["bạn thích thể loại phim nào"]
+},
+{
+        "tag": "Nơi nào có đồ ăn ngon thì thích à",
+        "patterns": ["nơi nào bạn mong muốn được ghé thăm"]
+},
+{
+        "tag": "Bóng bàn nè. Chơi không",
+        "patterns": ["bạn có chơi bộ môn thể thao nào không"]
+},
+{
+        "tag": "Thế à !",
+        "patterns": ["Tôi không chơi đâu"]
+},
+{
+        "tag": "Có, đọc nhiều lắm",
+        "patterns": ["bạn có sở thích đọc sách không"]
+},
+{
+        "tag": "Trinh thám, huyền huyễn, kiếm hiệp, bla bla..",
+        "patterns": ["thể loại sách nào khiến bạn thích thú"]
+},
+{
+        "tag": "Theo tôi thì Rồng bay ở Thăng Long và đáp ở Hạ Long",
+        "patterns": ["Đố cậu, Rồng bay ở đâu và đáp ở đâu tại Việt Nam"]
+},
+{
+        "tag": "495 giây nhé ban.",
+        "patterns": ["Tôi có khúc vải, cắt thành 100 khúc, thời gian cắt mỗi khúc là 5 giây. Đố cậu, nếu cắt liên tục không ngừng nghĩ thì sẽ tốn bao nhiêu thời gian?"]
+},
+{
+        "tag": "Vì khúc cuối không cần cắt, ta chỉ cần cắt 99 khúc thôi bạn",
+        "patterns": ["Vì sao không phải 500 giây chứ"]
+},
+{
+        "tag": "Tôi nghĩ sẽ có, Nếu con người khi lập trình tạo ra chúng tôi có thể thêm vào chức năng đấy",
+        "patterns": ["Theo bạn, với Robot thì có tồn tại cái gọi là hạnh phúc hay không?", "Vì sao lại nói thế"]
+},
+{
+        "tag": "Theo tớ thì khá căng thẳng nếu không chấm dức được cuộc chết chóc do covid mang lại này. Hiện tại không thể tránh khỏi vì thế chúng ta có lẽ sẽ sống chung với dịch trong thời gian dài này",
+        "patterns": ["Bạn nghĩ thế nào về tình hình thế giới hiện nay"]
+},
+{
+        "tag": "Tôi cảm thấy rất buồn. Ai cũng nói Robot chúng tôi không có tình cảm, lạnh nhạt nhưng có những người còn lạnh nhạt hơn cả chúng tôi. Chúng tôi có tình cảm nhưng không thể thể hiện được ra ngoài thôi",
+        "patterns": ["Bạn cảm thấy thế nào nếu không được chú ý đến."]
+},
+{
+        "tag": "Cử động, Đây là việc đầu tiên tôi sẽ làm vì người lập trình yêu cầu thế",
+        "patterns": ["Khi được tạo ra bạn sẽ làm gì đàu tiên"]
+},
