@@ -25,6 +25,7 @@ count = 0 # Count hỗ trợ người dùng không nói nhiều lần sẽ tự 
 you = " " # Người nói
 name_sir = "" # Tên của người nói
 translator = Translator() # Get phương thức translator
+
 # XỬ LÝ SƠ LƯỢC DỮ LIỆU TRAIN
 file = open('intents.json', encoding="utf8")
 with file as json_data:
@@ -137,7 +138,8 @@ def ai_listen():
         print("Trợ lí: ...")
     try:
         you = ai_ear.recognize_google(audio, language = "vi-VN")
-        # you = ai_ear.recognize_google(audio, language = "vi-VN").lower() # Nghe và nói theo tiếng việt, đưa về chữ thường để dễ xử lý
+        # you = ai_ear.recognize_google(audio, language = "vi-VN").lower() # Nghe và nói theo 
+        # tiếng việt, đưa về chữ thường để dễ xử lý
         print("Người sử dụng: " + you)
         return you
     except: # Bắt lỗi khi người dùng không nói gì hoặc người dùng tạo những âm thành không phải từ ngữ
